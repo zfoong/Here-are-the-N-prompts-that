@@ -1,0 +1,29 @@
+# Local research and maintenance tooling
+.project/
+scripts/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Common generated files
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+coverage/
+
+# Editor-specific settings
+.vscode/
+.idea/
+
+# OS noise
+.DS_Store
+Thumbs.db

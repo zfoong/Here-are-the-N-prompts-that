@@ -1,68 +1,47 @@
 <div align="center">
 
-# 🎭 Here are the N prompts that...
+# 🎭 The Prompt-Pack Roster
 
-**A field guide to social media's favorite unit of artificial intelligence: the numbered prompt pack.**
+**30 social posts walked into a repository. Their 242 prompts came out with variables and citations.**
 
-[Browse the roster](CATALOG.md) · [Browse source files](collections/) · [Add a prompt pack](COLLECTION_FORMAT.md) · [Read the data policy](DATA_POLICY.md)
+[Home](README.md) · [Canonical packs](collections/) · [Collection format](COLLECTION_FORMAT.md) · [Data policy](DATA_POLICY.md)
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/zfoong/Here-are-the-N-prompts-that/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/zfoong/Here-are-the-N-prompts-that?style=social"></a>
   <img alt="Prompt packs: 30" src="https://img.shields.io/badge/prompt_packs-30-6f42c1">
   <img alt="Distilled prompts: 242" src="https://img.shields.io/badge/distilled_prompts-242-0969da">
   <img alt="Platforms: 4" src="https://img.shields.io/badge/platforms-4-1f883d">
-  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/code_license-MIT-yellow"></a>
+  <img alt="Format: source linked" src="https://img.shields.io/badge/format-source_linked-f97316">
 </p>
 
-> I replaced a $500/hour consultant with 7 AI prompts. You will not believe prompt #4.
->
-> The consultant was ChatGPT in a trench coat.
+> [!TIP]
+> Start with a division below. Every row links directly to its canonical prompt-pack file; the social source stays one click away.
 
-Social media is full of posts claiming someone made `$10K in 30 days`, replaced an entire department, or unlocked a suspiciously complete business—all with **N prompts** conveniently buried in a thread, image carousel, comment section, or DM funnel.
+## Directory
 
-This repository is collecting those posts, preserving the source trail, and turning the useful parts into clear, reusable prompt cards. No “comment **PROMPT** and follow me so I can DM you” ceremony required.
+| Division | Packs | Prompts |
+| --- | ---: | ---: |
+| [💼 Business](#business) | 11 | 116 |
+| [✍️ Content & Marketing](#content) | 8 | 50 |
+| [🧭 Career](#career) | 4 | 25 |
+| [🧠 Learning](#learning) | 2 | 15 |
+| [⚡ Productivity & Life Admin](#productivity) | 1 | 5 |
+| [💸 Finance](#finance) | 2 | 14 |
+| [🧰 Field Guides](#other) | 2 | 17 |
 
-**Status:** first drop live — **30 qualifying posts, 242 distilled prompts, 4 platforms**.
+### Platform mix
 
-If that sounds useful—or at least cathartic—star the repo and send in a specimen.
+| Platform | Qualifying posts |
+| --- | ---: |
+| Reddit | 12 |
+| LinkedIn | 10 |
+| Facebook | 7 |
+| X | 1 |
 
-## ⚡ Use a prompt in 30 seconds
+## Browse by division
 
-1. Pick a division from the roster below.
-2. Open a prompt pack and copy what you need.
-3. Replace every `[BRACKETED_VARIABLE]` with your own context.
-
-No install. No comment keyword. No waiting for a stranger to notice your engagement.
-
-## What makes this different?
-
-There are already enormous prompt libraries. This one stays deliberately small:
-
-- Browse packs by **domain**.
-- Copy clear, parameterized **prompts**.
-- Open the original **source** whenever you want the context.
-
-That is the whole interface. The jokes stay in the project copy instead of becoming a metadata form you have to decode.
-
-## What each pack page contains
-
-Every sourced post gets one short page:
-
-```text
-Title    Here are the 5 prompts...
-Domain   Business
-Prompts  Copy-ready templates with [VARIABLES_TO_REPLACE]
-Source   Original public post and author
-```
-
-No audit table, scoring system, or taxonomy lecture between you and the prompt.
-
-<!-- collection-roster:start -->
-## 🎭 The prompt-pack roster
-
-Like an awesome list, each row is quick to scan. Like an agent directory, each pack opens into a simple Markdown page with the prompts and source.
+Pick a pack, copy a prompt, and replace the bracketed variables.
 
 <a id="business"></a>
 
@@ -157,56 +136,6 @@ General-purpose packs that refuse to stay inside one neat category.
 | [10 ChatGPT prompt templates that always work](collections/other/hnp-016-10-chatgpt-prompt-templates-that-always-work.md) | Expert role · Step-by-step guide · Compare options · +7 more | 10 | [LinkedIn](https://www.linkedin.com/posts/learn-leadership-net_10-chatgpt-prompt-templates-that-always-work-activity-7379877906543468544-plMt) |
 | [The $1,240 flight I booked for $620: 7 ChatGPT prompts airlines don't want you to see](collections/other/hnp-024-the-1-240-flight-i-booked-for-620-7-chatgpt-prompts-airlines-don-t-want.md) | Cheapest route finder · Budget-airline finder · Stopover comparison · +4 more | 7 | [Facebook](https://www.facebook.com/maryhendersoncoaching/videos/the-1240-flight-i-booked-for-620-7-chatgpt-prompts-airlines-dont-want-you-to-see/1838410977103897/) |
 
-**[Open the full catalog →](CATALOG.md)** — includes platform counts, format notes, and every canonical collection file.
-<!-- collection-roster:end -->
+## Corrections and removals
 
-## How posts will be found
-
-The collection grows deliberately:
-
-1. Community submissions through GitHub issues and pull requests.
-2. Maintainer discoveries from normal browsing and public search results.
-3. Official platform search APIs where they support the use case.
-4. Human extraction and review before anything is published.
-
-We will not bypass logins or privacy controls, automate comments/follows/DMs, or dump entire social posts into Git. Every published pack keeps a direct source link and attribution.
-
-## The joke, kept lightweight
-
-The repository still pokes fun at “comment before I delete this” prompt marketing. It just does not make you study a scoring rubric before copying a useful prompt.
-
-## Roadmap
-
-- [x] Research the post formats, discovery vocabulary, platform access, and existing prompt libraries
-- [x] Define the source, domain, and prompt-pack format
-- [x] Publish the data policy and canonical Markdown collection format
-- [x] Curate 30 qualifying posts and distill all 242 promised prompts
-- [x] Store every prompt pack as a canonical Markdown item under its division
-- [x] Generate categorized README and catalog indexes from those source files
-- [x] Validate IDs, URLs, counts, metadata, directories, and prompt blocks locally
-- [ ] Add the contribution guide and GitHub submission forms
-- [ ] Add prompt fixtures, evaluations, and CI
-- [ ] Add duplicate detection and show where the same prompt keeps resurfacing
-- [ ] Add official API-assisted discovery without auto-publishing
-- [ ] Consider a searchable static site after the collection proves useful
-
-## Submit a post
-
-For now, open an issue with:
-
-- the public post URL;
-- where the prompts live (post, replies, images, or external page);
-- whether you are the author;
-- anything that needs context, correction, or permission.
-
-X, Threads, Facebook, Instagram, Reddit, LinkedIn, TikTok, Bluesky, Mastodon, and whatever ships next week are all welcome—as long as the source is public and the submission respects the platform and the author.
-
-## A note on claims and rights
-
-Income, performance, and “replacement” statements belong to the source and are not endorsed by this project. Prompt pages favor attributed, meaningfully transformed templates over wholesale copying. The repository’s MIT license covers its code; third-party content keeps its own rights.
-
-This project is unaffiliated with the platforms and model providers mentioned in collected posts.
-
-## Format inspiration
-
-The browsing structure borrows the best parts of [The Agency](https://github.com/msitarzewski/agency-agents)—categorized directories and one file per item—and [Awesome Prompts](https://github.com/ai-boost/awesome-prompts)—compact name, description, and direct-link tables.
+Open an issue with the collection ID, source URL, and requested change. See [DATA_POLICY.md](DATA_POLICY.md) for attribution, transformation, high-risk content, and removal rules.
