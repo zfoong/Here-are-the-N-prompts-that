@@ -55,7 +55,3 @@ Show me how to scale [side hustle] from [current income] to [target income] per 
 ```text
 Act as a brutally honest mentor. Analyze this plan [summary of plan] and tell me what will break first, what's unrealistic, and how to fix it.
 ```
-
-## Source
-
-Reproduced from [Tyler Wise on Facebook](https://www.facebook.com/tyler.wise.31105/posts/i-asked-chatgpt-to-build-me-a-10kmonth-side-hustle-planuse-these-7-prompts-to-de/1337515314789116/) with formatting-only changes.

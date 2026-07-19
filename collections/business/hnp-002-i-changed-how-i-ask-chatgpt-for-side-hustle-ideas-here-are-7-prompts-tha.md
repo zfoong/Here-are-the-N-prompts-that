@@ -55,7 +55,3 @@ Using [CUSTOMER_LANGUAGE] and [OFFER_DETAILS], draft a headline, three benefit b
 ```text
 For this stalled side hustle [CONTEXT], identify the likely bottleneck, questions needed to confirm it, three experiments, and the cheapest next action.
 ```
-
-## Source
-
-Distilled from [u/dasun0218 on Reddit](https://www.reddit.com/r/ChatGPT/comments/1q09pec/i_changed_how_i_ask_chatgpt_for_side_hustle_ideas/). The prompts are transformed templates, not a verbatim copy.

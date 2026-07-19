@@ -43,7 +43,3 @@ Teach me 5 must-know phrases in [language] to navigate restaurants, shopping, an
 ```text
 Provide a concise, practical safety guide for traveling solo in [destination]. Include common scams and tips to stay safe.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/these-5-chatgpt-prompts-create-your-perfect-vacation-in-minutes-not-months-and-s/10160909397576256/) with formatting-only changes.

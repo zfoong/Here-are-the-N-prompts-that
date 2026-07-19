@@ -55,7 +55,3 @@ Help me design a digital portfolio that effectively showcases my (Title- edit) e
 ```text
 What are the most effective job search strategies and platforms for finding (Title- edit) jobs in 2024? Include tips for networking and creating a standout profile on platforms like LinkedIn and Indeed.
 ```
-
-## Source
-
-Reproduced from [Inspired Filipino Freelancers on Facebook](https://www.facebook.com/inspiredfilipinofreelancers/posts/7-chatgpt-prompts-to-get-a-va-job-2024spread-and-share-with-everyone1upwork-opti/781452977456674/) with formatting-only changes.

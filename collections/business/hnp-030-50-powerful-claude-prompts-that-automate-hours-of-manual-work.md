@@ -313,7 +313,3 @@ Design learning for [LEARNER_AND_GOAL] with baseline assessment, adaptive practi
 ```text
 Analyze [SUPPLY_CHAIN] for dependencies, lead times, capacity, geographic and supplier risk, scenarios, early indicators, mitigations, and source freshness.
 ```
-
-## Source
-
-Distilled from [@defi_explora on X](https://x.com/defi_explora/status/2036861515580457345). The prompts are transformed templates, not a verbatim copy.

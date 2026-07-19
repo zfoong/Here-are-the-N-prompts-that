@@ -49,7 +49,3 @@ Design a distraction-minimized workflow for me as someone who works from home. I
 ```text
 Give me a monthly reflection + planning template. Include sections for what went well, what needs improvement, top lessons, and my 3 priorities for the upcoming month.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/6-chatgpt-prompts-that-make-my-schedule-feel-like-i-have-a-top-notch-personal-as/10173689444170347/) with formatting-only changes.

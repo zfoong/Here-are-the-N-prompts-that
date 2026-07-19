@@ -55,7 +55,3 @@ Suggest top-rated eco-friendly or ethically made alternatives to [insert product
 ```text
 I'm buying [insert list of products]. Suggest Amazon bundles or sellers offering discounts for purchasing items together.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/chatgpt-amazon-smarter-shopping-copy-these-7-prompts-to-find-better-deals-avoid-/10173652277210347/) with formatting-only changes.

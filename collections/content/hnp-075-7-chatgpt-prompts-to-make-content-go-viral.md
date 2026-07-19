@@ -195,7 +195,3 @@ Finally, rewrite the top 5 hooks in 3 tones:
 - Slightly chaotic but still credible
 For every hook, identify the exact emotion it activates and the reason someone would keep watching.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/ThinkingDeeplyAI/comments/1ucjmku/7_chatgpt_prompts_to_make_your_content_go_viral) with formatting-only changes.

@@ -61,7 +61,3 @@ Generate 10 'personal authority' Facebook posts that show expertise without soun
 ```text
 Turn this long-form idea into a short viral Facebook post under 6 lines, optimized for mobile scrolling and shares: {paste your text}.
 ```
-
-## Source
-
-Reproduced from [Altiam Artificial Intelligence on Facebook](https://www.facebook.com/altiam.artificialintelligence/posts/facebook-growth-can-be-simple-copy-these-8-proven-prompts-and-watch-your-page-ex/122179230098620880/) with formatting-only changes.

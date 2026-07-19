@@ -69,7 +69,3 @@ Do a final polish on this text.
 Fix grammar, tighten sentences, and make it sound clean and confident.
 Text: [paste text]
 ```
-
-## Source
-
-Reproduced from [u/tipseason on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1odvmgs/7_chatgpt_prompts_that_make_editing_10x_easier/) with formatting-only changes.

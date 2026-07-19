@@ -55,7 +55,3 @@ Build me the perfect Easter movie marathon schedule from morning to night. Mix f
 ```text
 Write a heartfelt but not cheesy thank you message to [person] for [hosting Easter/the gift/making dinner]. Keep it genuine, warm, and under 4 sentences.
 ```
-
-## Source
-
-Reproduced from [Owwstin on Facebook](https://www.facebook.com/Owwstin/posts/happy-easter-here-are-7-ai-prompts-to-make-today-more-fun1-easter-egg-hunt-desig/10161951480626256/) with formatting-only changes.

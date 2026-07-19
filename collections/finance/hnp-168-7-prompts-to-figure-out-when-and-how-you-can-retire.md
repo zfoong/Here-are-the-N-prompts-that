@@ -55,7 +55,3 @@ Recommend an asset allocation plan from [X] years before retirement, during reti
 ```text
 Evaluate my readiness for retiring at [target age] across key areas (savings rate, net worth, withdrawal strategy, healthcare, taxes, income streams). Current stats: [paste]. Identify the most important gaps to fix first.
 ```
-
-## Source
-
-Reproduced from [Casper Capital on Facebook](https://www.facebook.com/100089314351644/posts/breaking-chatgpt-can-now-map-out-a-retirement-plan-better-than-most-expensive-pl/960866960233774/) with formatting-only changes.

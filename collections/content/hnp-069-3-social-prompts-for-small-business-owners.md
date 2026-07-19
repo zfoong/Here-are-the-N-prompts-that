@@ -31,7 +31,3 @@ Create a week of Facebook posts for [business name] promoting [product/service].
 ```text
 Write a LinkedIn post about [recent milestone] for [business name]. Make it story-driven and end with a question.
 ```
-
-## Source
-
-Reproduced from [u/Salt_War_3742 on Reddit](https://www.reddit.com/r/smallbusiness/comments/1saqf7f/i_built_a_free_prompt_cheat_sheet_for_small) with formatting-only changes.

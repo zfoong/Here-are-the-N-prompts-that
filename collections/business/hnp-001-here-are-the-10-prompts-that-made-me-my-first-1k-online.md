@@ -73,7 +73,3 @@ Draft a non-promotional community post that asks [TARGET_COMMUNITY] about [PROBL
 ```text
 Write 15 one-line hooks for [OFFER] aimed at [AUDIENCE]. Mix problem, outcome, contrast, and specificity; exclude guarantees and rank the top three with reasons.
 ```
-
-## Source
-
-Distilled from [u/speak2klein on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1se4igz/here_are_the_10_prompts_that_made_me_my_first_1k/). The prompts are transformed templates, not a verbatim copy.

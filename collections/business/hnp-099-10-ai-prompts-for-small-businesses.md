@@ -73,7 +73,3 @@ Write a short email asking happy customers for referrals. Friendly, not pushy. I
 ```text
 Give me 30 content ideas for [business type] — mix of educational, entertaining, and promotional.
 ```
-
-## Source
-
-Reproduced from [u/Old_Friend_1466 on Reddit](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1rxo28e) with formatting-only changes.

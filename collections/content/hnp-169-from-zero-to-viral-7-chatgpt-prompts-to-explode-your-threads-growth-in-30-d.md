@@ -55,7 +55,3 @@ Create 7 bite-sized, actionable tips in [your niche] that position me as an expe
 ```text
 Suggest 10 ways to reply to trending Threads posts in [your niche] that add value, showcase expertise, and attract profile clicks.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/from-zero-to-viral-7-chatgpt-prompts-to-explode-your-threads-growth-in-30-daysno/10173946081745347/) with formatting-only changes.

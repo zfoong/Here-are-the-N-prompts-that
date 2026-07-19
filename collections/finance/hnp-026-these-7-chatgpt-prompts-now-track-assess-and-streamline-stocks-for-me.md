@@ -55,7 +55,3 @@ Summarize [COMPANY]'s latest official earnings materials in plain language, citi
 ```text
 Design a spreadsheet schema for holdings, cost basis, price source, return, allocation, and review date. Explain safe data connections and formula checks without pretending live access.
 ```
-
-## Source
-
-Distilled from [Sharif Ceasar on Facebook](https://www.facebook.com/threalmelaninking/posts/i-stopped-manually-monitoring-stocks-dailythese-7-chatgpt-prompts-now-track-asse/757972823754420/). The prompts are transformed templates, not a verbatim copy.

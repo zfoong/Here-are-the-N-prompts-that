@@ -55,7 +55,3 @@ Pretend you're texting this to your most skeptical friend.
 ```text
 Turn this into a value-packed thread people actually want to save.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/stop-telling-chatgpt-to-write-like-a-human-telling-it-to-remove-an-em-dash-isnt-/10161043453636256/) with formatting-only changes.

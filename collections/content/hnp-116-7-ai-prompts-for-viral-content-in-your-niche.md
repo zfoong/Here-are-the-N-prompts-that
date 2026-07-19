@@ -55,7 +55,3 @@ Act as a community engagement strategist. You know how to spark conversations th
 ```text
 Act as a conversion copywriter. You specialize in positioning offers as the natural next step. I want to promote my [offer/product/service] in [niche] without sounding pushy. Write 5 posts that naturally position my offer as the obvious follow-up after consuming my free content. Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-for-viral-content-in-your-niche-/24882983274641172/) with formatting-only changes.

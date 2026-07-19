@@ -43,7 +43,3 @@ Plan a perfect 24-hour itinerary in [destination] that avoids tourist traps and 
 ```text
 Teach me 10 essential phrases in [local language] to confidently navigate basic situations on my trip.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/travel-agencies-hate-these-chatgpt-prompts-that-saved-me-thousands-last-yeartrav/10160835076271256/) with formatting-only changes.

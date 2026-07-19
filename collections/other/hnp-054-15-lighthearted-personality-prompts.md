@@ -103,7 +103,3 @@ What’s something I take seriously that I would probably enjoy more if I treate
 ```text
 What future version of me would be most surprised by how I spend my free time?
 ```
-
-## Source
-
-Reproduced from [u/jcmib on Reddit](https://www.reddit.com/r/ChatGPT/comments/1rcywen/15_goldilocks_prompts_not_too_deep_not_too_silly) with formatting-only changes.

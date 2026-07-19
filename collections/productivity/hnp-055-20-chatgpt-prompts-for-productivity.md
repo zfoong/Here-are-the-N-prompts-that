@@ -133,7 +133,3 @@ I have [X] high-impact hours this week. Allocate them across these outcomes: [li
 ```text
 Give me 3 decision filters to quickly decide whether a task is worth doing. Base them on impact, urgency, energy cost, and opportunity cost. Then apply the filters to this list: [paste], and tell me what I should say no to.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1q8vjg5/20_top_rated_chatgpt_prompts_that_will_10x_your) with formatting-only changes.

@@ -49,7 +49,3 @@ ChatGPT, map out how I can turn my current process into a repeatable system—on
 ```text
 ChatGPT, forecast the next 12–24 months in [your industry/niche]. What trends or shifts should I prepare for to stay ahead of competitors?
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/i-unlocked-expert-mode-in-chatgpthere-are-6-prompts-that-gave-me-strategies-and-/10174363093660347/) with formatting-only changes.

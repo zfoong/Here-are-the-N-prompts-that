@@ -173,7 +173,3 @@ The Investigation (The "Downward Arrow"):
 
 Keep going until you hit a foundational belief about yourself. Stare it in the face. This is what you're really fighting.
 ```
-
-## Source
-
-Reproduced from [u/speak2klein on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1ljoh8p/10_moneymaking_ai_prompts_with_frameworks_that) with formatting-only changes.

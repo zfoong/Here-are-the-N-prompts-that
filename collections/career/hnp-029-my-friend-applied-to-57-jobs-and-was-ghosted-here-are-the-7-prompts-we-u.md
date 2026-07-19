@@ -55,7 +55,3 @@ Recommend a simple, scannable resume structure for [ROLE_AND_COUNTRY], including
 ```text
 Draft a brief message to [HIRING_MANAGER] based on [REAL_RELEVANCE], one evidenced contribution, and a low-pressure question. Avoid desperation and false familiarity.
 ```
-
-## Source
-
-Distilled from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/my-friend-applied-to-57-jobsghosted-57-timesnot-a-single-callthen-i-gave-chatgpt/10160923539396256/). The prompts are transformed templates, not a verbatim copy.

@@ -73,7 +73,3 @@ Design a 4-week plan mixing podcasts, videos, books, and convos. 30 mins/day, wi
 ```text
 Build a weekly checklist to get from [current level] to [goal level] in 90 days.
 ```
-
-## Source
-
-Reproduced from [u/MRViral- on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1n73lbd) with formatting-only changes.

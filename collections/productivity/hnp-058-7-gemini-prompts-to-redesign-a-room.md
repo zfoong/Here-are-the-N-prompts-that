@@ -55,7 +55,3 @@ Redesign this dining area to feel moody, cinematic, and intimate. Use charcoal p
 ```text
 Give me three completely different redesigns of this room. Version one: modern minimalist. Version two: warm mid-century. Version three: moody and dark. Keep the existing floor, windows, ceiling height, and room layout in every version. Before each image, describe the vibe in one sentence and explain the biggest design choice you made.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1tmdmtj/7_google_gemini_prompts_that_can_redesign_almost) with formatting-only changes.

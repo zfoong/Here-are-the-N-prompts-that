@@ -79,7 +79,3 @@ No motivation quotes.
 
 Explain it so simply that someone could apply it today.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/5-prompts-that-actually-work-no-tricks-no-spammy-tactics/1365119235628532/) with formatting-only changes.

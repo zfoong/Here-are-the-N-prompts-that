@@ -43,7 +43,3 @@ I'm a freelance book editor. Give me 12 blog ideas and 12 LinkedIn post ideas to
 ```text
 I run a wedding photography side hustle. Build me a weekly schedule that balances shoots, editing, marketing, and family.
 ```
-
-## Source
-
-Reproduced from [Ninja AI Tools on Facebook](https://www.facebook.com/ninjaaitools/posts/5-chatgpt-prompts-to-help-you-start-a-side-hustle-fast/2850655391802373/) with formatting-only changes.

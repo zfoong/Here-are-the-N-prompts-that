@@ -49,7 +49,3 @@ Turn this ad into a story that highlights [audience problem] and positions [prod
 ```text
 Suggest 3 eye-catching visuals or video concepts for an ad about [topic/product].
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/from-good-to-great-5-chatgpt-prompts-to-elevate-your-facebook-ads/10173332246645347/) with formatting-only changes.

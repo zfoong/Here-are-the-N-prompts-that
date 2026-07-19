@@ -61,7 +61,3 @@ Include hidden gems, cheap eats, and best value stays.
 Rewrite this sales page [paste copy] to drive sales and increase conversions.
 Make it punchier, clearer, and create a sense of urgency.
 ```
-
-## Source
-
-Reproduced from [u/General_Scarcity7664 on Reddit](https://www.reddit.com/r/ChatGPT/comments/1k7ulgo) with formatting-only changes.

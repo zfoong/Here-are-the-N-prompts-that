@@ -49,7 +49,3 @@ I have 3 free days a week and 2 months. Design a crash study plan to master [ins
 ```text
 Break down [insert topic] into smaller, easier-to-understand parts. Use analogies and real-life examples to simplify the concept and make it more relatable.
 ```
-
-## Source
-
-Reproduced from [Mr Bashar Gulumbe on Facebook](https://www.facebook.com/MrBasharGulumbe/posts/chatgpt-prompts-that-will-change-your-life-in-20251-use-the-8020-principle-to-le/122178161090053141/) with formatting-only changes.

@@ -70,7 +70,3 @@ Give me 10 headline variations for this topic: [insert topic].
 Use these styles: curiosity, benefit-driven, emotional, question-based, and data-backed.
 Highlight the top 2 most clickable ones.
 ```
-
-## Source
-
-Reproduced from [u/tipseason on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1o7uhzf/7_chatgpt_prompts_that_turn_you_into_a_content) with formatting-only changes.

@@ -73,7 +73,3 @@ Build me a 5-day posting plan that gets comments, DMs, and leads — without bur
 ```text
 Write a CTA that gets clicks and conversions — without sounding like a robot.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/these-10-chatgpt-prompts-feel-illegal-but-they-workfor-going-viral-growing-fast-/10173818960580347/) with formatting-only changes.

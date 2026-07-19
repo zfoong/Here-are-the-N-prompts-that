@@ -43,7 +43,3 @@ Write a sales page for my ebook called [title]. The buyer is [describe them]. Th
 ```text
 Write 5 different social media posts to launch my digital product. Each one should lead with a different hook — curiosity, pain point, result, story, and controversy.
 ```
-
-## Source
-
-Reproduced from [u/Lanky-Nature2425 on Reddit](https://www.reddit.com/r/beermoneyideas/comments/1uf57nd/i_had_zero_audience_zero_experience_these_5) with formatting-only changes.

@@ -49,7 +49,3 @@ Assume I have $[insert] left after bills and savings. How can I start investing 
 ```text
 I owe [insert debt details]. With my income of [insert amount], give me a debt repayment strategy that balances payoff speed and financial breathing room.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/-after-payday-do-this-6-chatgpt-prompts-to-build-a-personal-money-system-that-ac/10173587858345347/) with formatting-only changes.

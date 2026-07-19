@@ -55,7 +55,3 @@ Act as a [content repurposing expert]. Using this transcript: [PASTE TRANSCRIPT]
 ```text
 You are a [viral content strategist]. Using this transcript: [PASTE TRANSCRIPT], reframe the same content into [3–5 different viral angles] (e.g., motivational, controversial, funny, educational). For each angle, suggest a short clip script under [60 seconds] with a strong hook and captions.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-to-turn-long-form-videos-into-shorts/25167600392846124/) with formatting-only changes.

@@ -43,7 +43,3 @@ Compress [POST] into five three-line hook options that create clarity or tension
 ```text
 Write three good-faith closing questions for [POST] that invite experience or disagreement rather than farming one-word comments.
 ```
-
-## Source
-
-Distilled from [Zubin Kutar on LinkedIn](https://www.linkedin.com/posts/zubinkutar_top-5-chat-gpt-prompts-to-create-viral-linkedin-activity-7382262820135976961-LYbm). The prompts are transformed templates, not a verbatim copy.

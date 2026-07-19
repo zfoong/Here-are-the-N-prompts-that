@@ -61,7 +61,3 @@ Adapt [SOURCE_CONTENT] into a LinkedIn post for [AUDIENCE]. Preserve attribution
 ```text
 Review [POST] for unclear claims, weak transitions, jargon, and missing evidence; produce an improved draft plus a short change log.
 ```
-
-## Source
-
-Distilled from [AI Future Skills on LinkedIn](https://www.linkedin.com/posts/ai-future-skills_these-8-linkedin-chatgpt-prompts-will-save-activity-7442676701890850817-gJxv). The prompts are transformed templates, not a verbatim copy.

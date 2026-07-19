@@ -73,7 +73,3 @@ Draft a 10-slide project kickoff deck for the 'Website Redesign' initiative. Inc
 ```text
 Create a 12-slide creative portfolio showcasing my work as a UX designer. Use the Nano Banana Pro mode for highly artistic, visually stunning slides. Once complete, turn this presentation into an interactive web page so I can host it on my custom domain.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1sjokcf/10_prompts_that_turn_manus_ai_and_nano_banana) with formatting-only changes.

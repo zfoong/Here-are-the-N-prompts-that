@@ -43,7 +43,3 @@ Help me find the perfect Mother's Day gift. About my mom: age [X], her hobbies a
 ```text
 Write me 3 Instagram caption options for a Mother's Day post about my mom. Her name is [NAME]. What makes her special: [list 2-3 things]. Tone options: 1) Funny + sweet, 2) Deeply emotional, 3) Short and punchy. Include 5 relevant hashtags for each.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/today-is-mothers-dayuse-these-5-chatgpt-prompts-to-make-your-mom-feel-special-to/10162083845791256/) with formatting-only changes.

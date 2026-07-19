@@ -73,7 +73,3 @@ I want to [insert task or goal]. Generate [insert desired outcome] for [insert t
 ```text
 Summarize the text below and give me a list of bullet points with key insights and the most important facts" [insert text]
 ```
-
-## Source
-
-Reproduced from [Altiam Kabir on Facebook](https://www.facebook.com/altiamkabir/posts/10-chatgpt-prompts-that-will-turn-you-into-a-superhuman-save-it-for-later-/25427940446840294/) with formatting-only changes.

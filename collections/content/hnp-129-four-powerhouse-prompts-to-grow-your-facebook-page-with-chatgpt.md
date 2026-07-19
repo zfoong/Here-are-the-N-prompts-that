@@ -57,7 +57,3 @@ You'll analyse it and:
 6. Tell me EXACTLY what makes this optimized version work based on 2025 engagement signals: watch time, comment depth, share intention, dwell time, re-engagement signals.
 Give me the optimized post + a breakdown.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/SimplyDigital.gr/posts/here-are-four-powerhouse-prompts-you-can-plug-straight-into-chatgpt-to-grow-your/1333553765451746/) with formatting-only changes.

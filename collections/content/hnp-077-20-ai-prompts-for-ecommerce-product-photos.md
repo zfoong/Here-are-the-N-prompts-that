@@ -133,7 +133,3 @@ Place the [product] in a bold Black Friday themed campaign scene, strong commerc
 ```text
 Place the [product] in a festive gifting season scene, elegant celebratory styling, clean composition, realistic lighting, premium seasonal atmosphere, keep the product shape, branding, and details exact.
 ```
-
-## Source
-
-Reproduced from [u/letsenhance__ai on Reddit](https://www.reddit.com/r/LetsEnhanceOfficial/comments/1rrt1lw/20_practical_ai_prompts_for_ecommerce_product) with formatting-only changes.

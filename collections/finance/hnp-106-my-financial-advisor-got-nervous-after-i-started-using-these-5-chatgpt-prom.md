@@ -43,7 +43,3 @@ List 5 profitable side hustle ideas based on my skills [list your skills]. Inclu
 ```text
 Give me a step-by-step plan to pay off 5K in credit card debt in less than 6 months without drastically changing my lifestyle.
 ```
-
-## Source
-
-Reproduced from [Owwstin on Facebook](https://www.facebook.com/Owwstin/posts/my-financial-advisor-got-nervous-after-i-started-using-these-5-chatgpt-prompts-/10160832864306256/) with formatting-only changes.

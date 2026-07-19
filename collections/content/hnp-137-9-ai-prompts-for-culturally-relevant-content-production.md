@@ -67,7 +67,3 @@ Act as a Brand Naming Specialist and Educational Marketing Consultant. I need a 
 ```text
 Act as a Quality Assurance Editor and Cross-Referencing Expert. I need a simple internal checklist to ensure the three documents—Report, Presentation, and Workbook—are perfectly aligned. Create a three-point checklist to verify structural alignment across the three documents. The checks must confirm that [Check 1: Section/Chapter Titles Match], [Check 2: Key Vocabulary is Consistent], and [Check 3: The Call-to-Action/Next Step is Identical] across all three final outputs.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/9-ai-prompts-for-culturally-relevant-content-production/25943038061969016/) with formatting-only changes.

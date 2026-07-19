@@ -55,7 +55,3 @@ I'm launching a new YouTube channel about [insert niche]. Help me create a 30-da
 ```text
 I have a YouTube video about [insert topic]. Show me how to turn this video into a blog post, Instagram reel, TikTok, and threads to increase my reach and revenue.
 ```
-
-## Source
-
-Reproduced from [@yourchatgptguide on Threads](https://www.threads.com/@yourchatgptguide/post/DWwMgcqDX4P) with formatting-only changes.

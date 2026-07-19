@@ -133,7 +133,3 @@ Evening debrief question to reinforce learning.
 
 Keep it low-pressure, habit-forming, and positive.
 ```
-
-## Source
-
-Reproduced from [u/IAmAzharAhmed on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1mrub99) with formatting-only changes.

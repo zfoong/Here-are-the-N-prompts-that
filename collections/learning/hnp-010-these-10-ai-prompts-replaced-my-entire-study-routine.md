@@ -73,7 +73,3 @@ Create a vivid, ordered memory story for [FACTS]. Preserve exact details, explai
 ```text
 Given what I know [CURRENT_KNOWLEDGE], design three projects that stretch me toward [TARGET_LEVEL], with deliverables, constraints, and review criteria.
 ```
-
-## Source
-
-Distilled from [u/EQ4C on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1n8dj06/these_10_ai_prompts_replaced_my_entire_study/). The prompts are transformed templates, not a verbatim copy.

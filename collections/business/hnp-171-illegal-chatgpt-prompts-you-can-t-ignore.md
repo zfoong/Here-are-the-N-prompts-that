@@ -55,7 +55,3 @@ Explain [insert complex topic] in simple terms like you're teaching a smart 12-y
 ```text
 I want to save 10 hours a week. Suggest tasks I can automate (content, client onboarding, outreach, etc.) — and the tools to do it with step-by-step setup.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/illegal-chatgpt-prompts-you-cant-ignoretheyre-not-actually-illegal-just-insanely/10173738589990347/) with formatting-only changes.

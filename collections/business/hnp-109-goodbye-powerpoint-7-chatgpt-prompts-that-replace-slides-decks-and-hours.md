@@ -55,7 +55,3 @@ Create short speaking notes for each section so I sound confident, natural, and 
 ```text
 Turn this full presentation [paste] into a powerful 60-second executive summary that captures the core message.
 ```
-
-## Source
-
-Reproduced from [The AI Empire on Facebook](https://www.facebook.com/theaiempire/posts/goodbye-powerpointhere-are-7-chatgpt-prompts-that-replace-slides-decks-and-hours/122157203786733053/) with formatting-only changes.

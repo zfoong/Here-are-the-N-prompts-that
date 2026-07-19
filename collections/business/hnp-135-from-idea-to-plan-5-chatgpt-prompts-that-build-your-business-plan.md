@@ -43,7 +43,3 @@ Help me define a strong, memorable USP for my business that solves [specific cus
 ```text
 Break down my business plan into a 12-month action plan with monthly milestones for launching, marketing, growing, and scaling my business idea.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/from-idea-to-plan-5-chatgpt-prompts-that-build-your-business-plan-/10173508676305347/) with formatting-only changes.

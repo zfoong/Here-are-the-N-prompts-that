@@ -55,7 +55,3 @@ Write ad copy for a Facebook ad promoting a limited-time Offer. Use strong langu
 ```text
 Write ad copy for a Facebook ad that leverages social proof. Use customer testimonials, reviews, or influencer endorsements to build credibility and trust.
 ```
-
-## Source
-
-Reproduced from [Altiam Kabir on Facebook](https://www.facebook.com/altiamkabir/posts/7-chatgpt-prompts-to-create-engaging-high-performing-ad-copy-that-reduces-your-c/24790303760603969/) with formatting-only changes.

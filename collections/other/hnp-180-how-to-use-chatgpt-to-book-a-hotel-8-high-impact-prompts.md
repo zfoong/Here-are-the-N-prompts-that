@@ -61,7 +61,3 @@ Find boutique hotels or guesthouses in [City] that are active on Instagram. I wa
 ```text
 Scan hotel rates in [City] for [Month] or [Range of Dates]. Identify the cheapest 2–3 date windows for stays and explain if prices will rise or drop soon based on demand and season. Use Hopper-style price forecasting.
 ```
-
-## Source
-
-Reproduced from [iamIzuken on Facebook](https://www.facebook.com/iamIzuken/posts/how-to-use-chatgpt-to-book-hotelhere-are-8-most-powerful-high-impact-prompts-for/10092639564148273/) with formatting-only changes.

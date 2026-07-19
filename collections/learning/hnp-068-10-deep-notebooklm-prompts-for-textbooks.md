@@ -73,7 +73,3 @@ A hundred years from now, a scholar is analyzing this work. What would they crit
 ```text
 Break down this idea into emotional, philosophical, psychological, and social dimensions. How does each lens interpret it differently, and where do they clash or overlap?
 ```
-
-## Source
-
-Reproduced from [u/Harry_Oliver_ on Reddit](https://www.reddit.com/r/notebooklm/comments/1kjtr47/10_deep_prompts_i_use_with_notebooklm_to_get) with formatting-only changes.

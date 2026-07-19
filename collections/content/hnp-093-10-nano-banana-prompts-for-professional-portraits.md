@@ -78,7 +78,3 @@ The image tells a story of creative passion.
 A high-fashion, avant-garde portrait in the style of a Met Gala feature by Annie Leibovitz. The subject is wearing abstract, sculptural couture. The background is an artistic, painterly canvas with dramatic textures. The lighting is theatrical and unconventional, using a single, hard light source to create sharp, defined shadows and a powerful silhouette. The pose is non-traditional and expressive.
 The final image is a work of art, pushing the boundaries of portraiture with a bold, conceptual, and editorial feel.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1nya859) with formatting-only changes.

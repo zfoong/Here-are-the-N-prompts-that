@@ -133,7 +133,3 @@ Rename all files in this folder using a consistent convention: [Date]_[Project]_
 ```text
 Generate comprehensive documentation for this project based on all files in the folder. Include: project overview, file structure, how to use/modify, dependencies, known issues, and future considerations. Write it for someone joining the project fresh.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1qytgh9/the_complete_claude_cowork_playbook_cowork_is) with formatting-only changes.

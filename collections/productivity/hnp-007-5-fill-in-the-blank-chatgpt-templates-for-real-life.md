@@ -43,7 +43,3 @@ Compare [OPTIONS] for my use case [USE_CASE] on [CRITERIA]. Recommend one, expla
 ```text
 Break [AVOIDED_TASK] into the smallest five-minute start, a realistic sequence for [AVAILABLE_TIME], and one maintenance rule that prevents the backlog returning.
 ```
-
-## Source
-
-Distilled from [u/Ok_Negotiation_2587 on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1uvbo1m/5_fillintheblank_chatgpt_templates_for_real_life/). The prompts are transformed templates, not a verbatim copy.

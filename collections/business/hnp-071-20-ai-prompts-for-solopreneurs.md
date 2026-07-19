@@ -133,7 +133,3 @@ When was the last time I felt proud of something I built—and why?
 ```text
 What would I do differently if I truly believed I couldn’t fail?
 ```
-
-## Source
-
-Reproduced from [u/speak2klein on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1kku2eh/20_ai_prompts_every_solopreneur_should_be_using) with formatting-only changes.

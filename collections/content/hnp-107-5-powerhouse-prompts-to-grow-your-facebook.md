@@ -43,7 +43,3 @@ Act as a Facebook algorithm strategist. I'll paste a post. You'll analyse it and
 ```text
 Create 10 Facebook post frameworks designed to maximise comments, not likes. The topic is: [insert topic]. Each post should: → spark opinions, experiences, or mild disagreement → feel natural and conversational (no 'comment below' clichés) → include an open loop that nudges people to respond → avoid yes/no questions. For each framework, include: → the opening line (1–2 lines) → why people will feel compelled to comment → the type of audience it attracts (lurkers, creators, buyers, skeptics).
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/SimplyDigital.gr/posts/here-are-5-powerhouse-prompts-you-can-plug-straight-into-chatgpt-to-grow-your-fa/1450743783732743/) with formatting-only changes.

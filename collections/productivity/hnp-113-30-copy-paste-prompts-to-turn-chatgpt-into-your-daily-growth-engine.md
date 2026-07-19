@@ -193,7 +193,3 @@ Draft a policy for [topic]. Keep it clear, short, and include examples.
 ```text
 Suggest KPIs for [team]. Define each KPI, how to measure, and target ranges.
 ```
-
-## Source
-
-Reproduced from [Altiam on Facebook](https://www.facebook.com/altiam.artificialintelligence/posts/use-these-30-copy-paste-prompts-to-turn-chatgpt-into-your-daily-growth-engine-st/122172546164620880/) with formatting-only changes.

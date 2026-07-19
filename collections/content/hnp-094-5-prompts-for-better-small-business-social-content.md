@@ -43,7 +43,3 @@ Think of the #1 pain point your customer has. Write a post showing how you help 
 ```text
 Ask your followers a simple either/or question related to your niche (e.g., coffee vs. tea, DIY vs. hire a pro).
 ```
-
-## Source
-
-Reproduced from [u/zenbusinesscommunity on Reddit](https://www.reddit.com/r/ZenBusinessInc/comments/1o0rxf5) with formatting-only changes.

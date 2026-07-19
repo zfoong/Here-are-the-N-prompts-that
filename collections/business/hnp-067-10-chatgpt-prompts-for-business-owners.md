@@ -73,7 +73,3 @@ Write a cold email to [ROLE] at [COMPANY TYPE] offering [SERVICE]. Keep it under
 ```text
 List 10 objections a [CUSTOMER TYPE] might have about [PRODUCT] and write responses for each
 ```
-
-## Source
-
-Reproduced from [u/Juan3s99 on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1qyel1j/i_compiled_500_chatgpt_prompts_for_business) with formatting-only changes.

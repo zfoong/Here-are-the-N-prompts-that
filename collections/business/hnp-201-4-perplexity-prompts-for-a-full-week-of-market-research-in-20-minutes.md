@@ -37,7 +37,3 @@ What has changed about [TOPIC] in the past month? Only sources after [DATE].
 ```text
 What are the major unknowns or gaps in current research on [TOPIC]?
 ```
-
-## Source
-
-Reproduced from [@ainspirehub on Threads](https://www.threads.com/@ainspirehub/post/Da8Pirtje2f) with formatting-only changes.

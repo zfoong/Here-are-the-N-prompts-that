@@ -82,7 +82,3 @@ Then:
 - Point out where the analogy breaks down, so I do not learn it wrong.
 - End with one question to check I followed.
 ```
-
-## Source
-
-Reproduced from [u/Ok_Negotiation_2587 on Reddit](https://www.reddit.com/r/Learning/comments/1u13atx/5_chatgpt_study_prompts_that_actually_made_things) with formatting-only changes.

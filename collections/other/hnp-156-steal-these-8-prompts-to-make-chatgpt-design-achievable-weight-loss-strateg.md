@@ -61,7 +61,3 @@ Give me a beginner-friendly nutrition plan for steady weight loss. Include porti
 ```text
 Create a weight-loss plan that emphasizes building strength while reducing body fat. Include a balanced weekly workout routine, protein goals, recovery tips, and sample meals.
 ```
-
-## Source
-
-Reproduced from [Kamzy's Diary on Facebook](https://www.facebook.com/stormyguld/posts/steal-these-8-prompts-to-make-chatgpt-design-achievable-weight-loss-strategies/828990296608968/) with formatting-only changes.

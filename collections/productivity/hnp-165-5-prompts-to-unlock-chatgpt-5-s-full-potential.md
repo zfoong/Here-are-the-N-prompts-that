@@ -43,7 +43,3 @@ Using your GPT-5 reasoning capabilities, pull from the most accurate knowledge y
 ```text
 You are ChatGPT 5. I'll give you 3 layers of context: audience, goal, and constraints. Use all layers to produce output that's not just accurate but feels made for me. At the end, explain exactly how each layer shaped your response.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/chatgpt-5-is-insanely-powerful-and-free-but-almost-no-one-is-using-it-to-its-ful/10160983771666256/) with formatting-only changes.

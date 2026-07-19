@@ -111,7 +111,3 @@ Generate 5 different soundbites based on this message using these specific rheto
 
 Keep each soundbite under 15 words. Make them punchy and easy to say out loud.
 ```
-
-## Source
-
-Reproduced from [u/EQ4C on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1tp702p/7_ai_prompts_to_present_ideas_so_memorably_people) with formatting-only changes.

@@ -252,7 +252,3 @@ Reverse-engineer my 5-year vision into immediate focus areas.
 3. Break the quarterly focus areas into 3 specific projects for this month.
 4. Ensure there is a clear, logical thread connecting the monthly projects directly to the 5-year vision. </instructions>
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/ThinkingDeeplyAI/comments/1spzhje/these_12_claude_prompts_will_reduce_your_weekly) with formatting-only changes.

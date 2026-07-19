@@ -39,13 +39,9 @@ Copy a prompt and replace every `[BRACKETED_VARIABLE]` with your own context.
 ```text
 [PASTE THE VERIFIED PROMPT HERE WITHOUT REWRITING IT]
 ```
-
-## Source
-
-Reproduced from [@example on Threads](https://www.threads.com/@example/post/example) with formatting-only changes.
 ````
 
-That is the complete format: five short metadata fields, numbered prompt blocks, and a source link. The ID comes from the filename, and the prompt count comes from the blocks, so neither needs another field.
+That is the complete format: five short metadata fields, an original-post link near the title, and numbered prompt blocks. The ID comes from the filename, and the prompt count comes from the blocks, so neither needs another field.
 
 ## Add or edit a pack
 

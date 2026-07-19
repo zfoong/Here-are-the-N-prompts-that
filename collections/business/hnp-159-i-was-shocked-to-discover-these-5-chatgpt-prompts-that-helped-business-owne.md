@@ -43,7 +43,3 @@ Review my current pricing strategy and suggest ways to optimize it for higher re
 ```text
 Suggest innovative ways to form strategic partnerships or collaborations that could expand my business reach.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/i-was-shocked-to-discover-these-5-chatgpt-prompts-that-helped-business-owners-to/10173153045840347/) with formatting-only changes.

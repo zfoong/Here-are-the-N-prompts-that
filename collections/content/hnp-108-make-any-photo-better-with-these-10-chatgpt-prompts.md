@@ -73,7 +73,3 @@ Add realistic shadows to the subject so it blends naturally into the scene with 
 ```text
 Transform this image into a [cinematic/anime/3D render/oil painting/illustration] style while preserving the subject and key details.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/SimplyDigital.gr/posts/make-any-photo-better-with-these-10-chatgpt-prompts/1496285382511916/) with formatting-only changes.

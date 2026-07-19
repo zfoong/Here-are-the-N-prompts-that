@@ -43,7 +43,3 @@ Cinematic still of a young individual wearing an audacious suit with swirling el
 ```text
 Create a funny 6 part story with these 3 fluffy friends building a tree house. The story is thrilling with emotional highs and lows ending in a happy moment. Keep attire and identity consistent. Generate 6 images one at a time in 16:9 format.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/nano-banana-2-just-released-here-are-5-image-prompts-that-are-next-level-/10161782177851256/) with formatting-only changes.

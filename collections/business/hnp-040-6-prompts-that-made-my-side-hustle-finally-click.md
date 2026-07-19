@@ -83,7 +83,3 @@ Design a 90-day plan with:
 - Small wins to celebrate
 Make it practical and not overwhelming.
 ```
-
-## Source
-
-Reproduced from [u/tipseason on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1nfolfk/6_prompts_that_made_my_side_hustle_finally_click) with formatting-only changes.

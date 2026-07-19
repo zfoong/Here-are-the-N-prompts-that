@@ -43,7 +43,3 @@ Read this email draft. Tell me: (1) how it sounds to the recipient (not how I in
 ```text
 I just finished a meeting. Here are my rough notes: [paste notes] Extract: (1) decisions made, (2) open questions not resolved, (3) my action items with owners if any, (4) one thing I should follow up on within 24 hours. Use bullet points only.
 ```
-
-## Source
-
-Reproduced from [u/CocoChanelVV on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1s48evx/45_production_prompts_i_use_daily_here_are_5_you) with formatting-only changes.

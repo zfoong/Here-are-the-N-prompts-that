@@ -73,7 +73,3 @@ Create a prioritized checklist for [GOAL] with owner, prerequisite, completion c
 ```text
 Brainstorm options for [PROBLEM], then cluster them, surface trade-offs and failure modes, and select three ideas worth testing.
 ```
-
-## Source
-
-Distilled from [Learn Leadership / Gabriel Millien on LinkedIn](https://www.linkedin.com/posts/learn-leadership-net_10-chatgpt-prompt-templates-that-always-work-activity-7379877906543468544-plMt). The prompts are transformed templates, not a verbatim copy.

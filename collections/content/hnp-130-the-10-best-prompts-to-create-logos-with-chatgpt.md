@@ -111,7 +111,3 @@ The symbol must be simple enough to recognize instantly, scalable to an app icon
 Inspired by Nike swoosh, Apple logo, and McDonald's arches.
 Minimal vector design, perfect symmetry, clean white background.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/SimplyDigital.gr/posts/this-should-not-be-free-the-10-best-prompts-to-create-logos-with-chatgpt-20-imag/1455284606611994/) with formatting-only changes.

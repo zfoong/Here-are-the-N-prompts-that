@@ -61,7 +61,3 @@ Act as a coach. Work in Australian English. Review this week’s posts, [PASTE M
 ```text
 Act as an operations lead. Work in Australian English. Write a 7-step SOP to take an idea from hook to published post. Include owner, tools, template names, time estimate, and a QC checklist.
 ```
-
-## Source
-
-Reproduced from [u/IAmAzharAhmed on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1ni5xlo) with formatting-only changes.

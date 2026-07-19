@@ -73,7 +73,3 @@ Draft 15 reply templates for comments like: praise, question, disagreement, aski
 ```text
 Based on these metrics [reach, saves, shares, comments], propose 5 experiments for next week and rewrite 3 posts.
 ```
-
-## Source
-
-Reproduced from [Altiam Artificial Intelligence on Facebook](https://www.facebook.com/altiam.artificialintelligence/posts/use-these-10-prompts-to-plan-write-and-grow-your-facebook-page-faster-/122169864674620880/) with formatting-only changes.

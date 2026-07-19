@@ -73,7 +73,3 @@ Write conversation starters and networking tips for meeting new people and build
 ```text
 Create journal prompts for couples to reflect on their growth, challenges, and future goals to strengthen their partnership.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/10-chatgpt-prompts-for-life-and-relationships-why-not-save-for-later-/10173253997805347/) with formatting-only changes.

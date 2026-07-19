@@ -55,7 +55,3 @@ Find international flights with long layovers I can turn into bonus trips. Focus
 ```text
 You're a developer. Give me a basic automation idea using free tools (like Google Alerts or Zapier) to track cheap flights to 3 destinations I choose.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/goodbye-skyscanner-goodbye-google-flightsbooked-a-1120-flight-for-just-142no-mil/10160962801551256/) with formatting-only changes.

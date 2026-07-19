@@ -73,7 +73,3 @@ Create merchandise using this character image.
 ```text
 Create a cutaway visualization of this car, show exterior intact on one side, and interior engine + seats exposed on the other side. Keep proportions accurate and details realistic.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/the-best-10-nano-banana-prompts-ever-made/1386945933445862/) with formatting-only changes.

@@ -55,7 +55,3 @@ Outline a 7-day content plan to promote my Etsy digital products using X (Twitte
 ```text
 Help me build a simple automation system to scale my Etsy business using AI tools. Include how to use ChatGPT for copy, Canva for design, and Notion or Airtable for managing listings, analytics, and customer messages efficiently.
 ```
-
-## Source
-
-Reproduced from [The AI Empire on Facebook](https://www.facebook.com/theaiempire/posts/chatgpt-etsy-use-these-7-prompts-to-create-optimize-and-scale-digital-products-t/122147579420733053/) with formatting-only changes.

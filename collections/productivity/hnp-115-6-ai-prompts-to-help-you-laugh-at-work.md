@@ -49,7 +49,3 @@ Act as a dramatic movie narrator. Rewrite my simple work email in an over-the-to
 ```text
 Act as a comedian who makes fun of corporate jargon. I'll give you a list of office buzzwords, and you'll rewrite them into funny, down-to-earth translations that sound like how normal people would say them. Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/6-ai-prompts-to-help-you-laugh-at-work/25203039815968848/) with formatting-only changes.

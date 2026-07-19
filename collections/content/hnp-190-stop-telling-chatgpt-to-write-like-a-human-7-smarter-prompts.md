@@ -55,7 +55,3 @@ Turn this block of text into a more casual, back-and-forth conversation between 
 ```text
 Strengthen the emotional pull of this message. Make the reader feel understood, curious, or inspired within the first 3 lines.
 ```
-
-## Source
-
-Reproduced from [AITRENDZ.xyz on Facebook](https://www.facebook.com/aitrendz.xyz1/posts/stop-telling-chatgpt-to-write-like-a-humantry-these-7-smarter-prompts-that-actua/122170382582603416/) with formatting-only changes.

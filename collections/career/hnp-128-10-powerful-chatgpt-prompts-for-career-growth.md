@@ -73,7 +73,3 @@ Get a step-by-step guide for transitioning into a new industry with confidence.
 ```text
 Design a customized job search strategy to land your ideal role efficiently.
 ```
-
-## Source
-
-Reproduced from [Putting Chicago to Work on Facebook](https://www.facebook.com/puttingchicagotowork/posts/10-powerful-chatgpt-prompts-for-career-growth1-resume-enhancement-optimize-your-/1097851435709926/) with formatting-only changes.

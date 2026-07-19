@@ -55,7 +55,3 @@ Rewrite this in short, rhythmic, TikTok-style sentences.
 ```text
 Expand this into 5 alternative angles with more emotional tension: [idea]
 ```
-
-## Source
-
-Reproduced from [u/tdeliev on Reddit](https://www.reddit.com/r/ChatGPT/comments/1pd0ufh/7_chatgpt_prompts_that_made_my_content_10x_faster/) with formatting-only changes.

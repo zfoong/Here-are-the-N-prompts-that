@@ -55,7 +55,3 @@ Write me a 60-second Instagram Reel script that sells my digital product [produc
 ```text
 Write a 3-message Instagram DM sequence for someone who commented [keyword] on my post about [topic]. I sell a digital product called [product name] that helps [audience] achieve [result]. Message 1: deliver the freebie or training link warmly and make them feel seen — include a question to start a conversation. Message 2: send 24 hours later — share a brief transformation story of someone who used my product and got [result], then ask a soft qualifying question. Message 3: send 48 hours later — invite them to purchase with a soft urgency line and offer a small exclusive bonus for acting now. Tone: warm, genuine, like a friend who wants to help. No pressure. No pushy sales language.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1s0tjus/7_claude_prompts_to_build_and_sell_your_digital) with formatting-only changes.

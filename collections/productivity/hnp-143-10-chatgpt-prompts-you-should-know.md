@@ -73,7 +73,3 @@ Act as a senior software engineer. Review this code in [language]. 1. Identify b
 ```text
 Act as a Socratic tutor. I want to understand [topic]. Don't give direct answers. Instead, guide me with questions that help me discover the answer myself. Adjust based on my responses. Start with the first question.
 ```
-
-## Source
-
-Reproduced from [Casper Capital on Facebook](https://www.facebook.com/100089314351644/posts/10-chatgpt-prompts-you-should-knowthese-turn-chatgpt-into-an-editor-strategist-t/881155561538248/) with formatting-only changes.

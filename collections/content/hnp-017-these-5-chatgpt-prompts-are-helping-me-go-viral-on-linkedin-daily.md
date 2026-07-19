@@ -43,7 +43,3 @@ Propose ten debate-worthy ideas in [NICHE], each with a defensible opinion, conc
 ```text
 Create a 30-day plan for [NICHE], [AUDIENCE], and [GOAL], balancing stories, expertise, proof, and conversation; include inputs and a review cadence.
 ```
-
-## Source
-
-Distilled from [Austin Armstrong on LinkedIn](https://www.linkedin.com/posts/austinarmstrong90_everyone-thinks-growing-on-linkedin-is-hard-activity-7472988322659811328-aLXa). The prompts are transformed templates, not a verbatim copy.

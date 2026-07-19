@@ -55,7 +55,3 @@ Act as a market research analyst specializing in real estate demographics. I wil
 ```text
 Act as a real estate economist and market educator. I will give you recent MLS data, market reports, or statistics. Translate this information into a clear, easy-to-understand summary for clients that explains what the trends mean for buyers and sellers, and how they should act now. Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-for-real-estate-agents/24814079981531502/) with formatting-only changes.

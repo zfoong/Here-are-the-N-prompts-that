@@ -55,7 +55,3 @@ Explain a three-step beginner investing research process for [COUNTRY], [GOAL], 
 ```text
 Combine [BUDGET], [TRACKER], and [GOALS] into a repeatable monthly checklist with dates, reminders, review triggers, and an exception process.
 ```
-
-## Source
-
-Distilled from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/i-gave-chatgpt-my-salary-and-it-fixed-my-financesno-spreadsheetsno-budgeting-app/10173643573570347/). The prompts are transformed templates, not a verbatim copy.

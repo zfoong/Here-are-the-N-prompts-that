@@ -61,7 +61,3 @@ Act as a Webinar Sales Scriptwriter. I am planning a Facebook Live session to se
 ```text
 Act as a Community Manager. I want to start a paid VIP membership group off of Facebook (like on Patreon or Skool) for my "super fans." Currently, I post [Insert Current Content Strategy] for free. List 5 exclusive perks or premium content ideas I could offer in a paid group that would justify a [Insert Monthly Price] subscription fee. Focus on things that save them time or give them closer access to me, rather than just "more content." Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/8-ai-prompts-for-monetizing-a-facebook-page/26212943838311769/) with formatting-only changes.

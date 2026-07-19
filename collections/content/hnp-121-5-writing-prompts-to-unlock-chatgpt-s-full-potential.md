@@ -43,7 +43,3 @@ Improve this writing for flow, grammar, and clarity — but keep my tone and mak
 ```text
 Turn this blog post into an Instagram carousel / LinkedIn post / email newsletter — highlight key points, break it into sections, and make it skimmable.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/5-writing-prompts-to-unlock-chatgpts-full-potentialsave-these-theyll-completely-/10173745997665347/) with formatting-only changes.

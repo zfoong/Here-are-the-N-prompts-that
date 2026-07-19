@@ -133,7 +133,3 @@ Act as a professional writer and strategist. Using the topic below, create a wel
 ```text
 Review the text below and act as a critical opponent. Identify weaknesses, unanswered questions, or logical fallacies in the writing. Then, rewrite the sections that are weak to address these counter-arguments preemptively. Text to critique: [paste text]
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1r6qa27/20_chatgpt_prompts_that_instantly_improve_your) with formatting-only changes.

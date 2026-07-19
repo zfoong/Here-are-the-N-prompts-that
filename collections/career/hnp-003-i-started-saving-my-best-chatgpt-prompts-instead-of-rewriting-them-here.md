@@ -43,7 +43,3 @@ Draft a cold email to [RECIPIENT] about [RELEVANT_PROBLEM]. Lead with a specific
 ```text
 Help me prepare for a conversation with [PERSON] about [ISSUE]. Separate facts from interpretations, propose an opening, questions to ask, boundaries, and de-escalation options.
 ```
-
-## Source
-
-Distilled from [u/Hopeful-Ad9349 on Reddit](https://www.reddit.com/r/ChatGPT/comments/1ts2b3y/i_started_saving_my_best_chatgpt_prompts_instead/). The prompts are transformed templates, not a verbatim copy.

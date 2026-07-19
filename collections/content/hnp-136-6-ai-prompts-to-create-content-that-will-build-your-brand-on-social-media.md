@@ -85,7 +85,3 @@ Write a social media post that takes the reader behind the scenes of this proces
 
 Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/6-ai-prompts-to-create-content-that-will-build-your-brand-on-social-media/25912014858404670/) with formatting-only changes.

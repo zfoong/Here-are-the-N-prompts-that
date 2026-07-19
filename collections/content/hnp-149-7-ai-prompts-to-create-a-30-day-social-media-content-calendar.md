@@ -55,7 +55,3 @@ Act as a data-driven social media analyst. Help me build a 30-day calendar that 
 ```text
 Act as a content repurposing expert. I need a 30-day social media calendar that accounts for X posts per day across multiple platforms. Identify core content pieces and show how to adapt them (e.g., blog ➔ tweet thread ➔ Instagram carousel). Include a schedule and repurposing notes. Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-to-create-a-30-day-social-media-content-calendar-/24766723959600438/) with formatting-only changes.

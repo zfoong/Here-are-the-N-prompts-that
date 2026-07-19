@@ -49,7 +49,3 @@ Review my entire plan and identify every assumption that has not been verified. 
 ```text
 Simplify [my plan] using the 80/20 principle. Keep only the actions that produce the greatest results. Tell me what to remove first, what to reduce next, and which steps are absolutely essential to keep.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1ucb9uz/6_prompts_that_make_chatgpt_stop_agreeing_with) with formatting-only changes.

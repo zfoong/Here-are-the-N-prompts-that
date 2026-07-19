@@ -61,7 +61,3 @@ Act as a Tech Procurement Specialist. I have a budget of [Insert Budget Amount] 
 ```text
 Act as an Operations Manager. I need a fool-proof pre-flight checklist to run 5 minutes before every high-stakes client call. Create a concise, 7-point checklist that covers audio, video, lighting, internet, and background checks to ensure [Insert Your Job Title] level professionalism every time I join a meeting. Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/8-ai-prompts-to-optimize-your-zoom-presence/26213384788267674/) with formatting-only changes.

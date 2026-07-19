@@ -73,7 +73,3 @@ My ending is weak. Read this draft: [paste]. Give me 3 alternatives — one that
 ```text
 I specialize in [niche]. Write a one-paragraph positioning statement for my website that's specific enough to attract the right clients and repel the wrong ones.
 ```
-
-## Source
-
-Reproduced from [u/Cataplasto on Reddit](https://www.reddit.com/r/ChatGPT/comments/1svq5zs/i_organized_150_chatgpt_prompts_specifically_for) with formatting-only changes.

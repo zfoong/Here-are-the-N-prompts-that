@@ -55,7 +55,3 @@ Rewrite [BULLETS] to foreground action and measured result. Ask for missing evid
 ```text
 Build a realistic daily routine for [GOAL] around [CONSTRAINTS], with minimum action, trigger, tracking method, recovery rule, and weekly review.
 ```
-
-## Source
-
-Distilled from [René Remsik on LinkedIn](https://www.linkedin.com/posts/reneremsik_everyones-worried-ai-will-take-their-jobs-activity-7391493022221500416-kNik). The prompts are transformed templates, not a verbatim copy.

@@ -48,7 +48,7 @@ No audit table, scoring system, or taxonomy lecture between you and the prompt.
 <!-- collection-roster:start -->
 ## 🎭 The prompt-pack roster
 
-Like an awesome list, each row is quick to scan. Like an agent directory, each pack opens into a simple Markdown page with the prompts and source.
+Like an awesome list, each row is quick to scan and each pack opens into a simple Markdown page with the prompts and source.
 
 <a id="business"></a>
 
@@ -333,23 +333,6 @@ We will not bypass logins or privacy controls, automate comments/follows/DMs, or
 
 Although it seems like this repository pokes fun at “Here re the 7 prompts I used to...” “comment before I delete this” prompt marketing. It just does not make you study a scoring rubric before copying a useful prompt.
 
-## Roadmap
-
-- [x] Research the post formats, discovery vocabulary, platform access, and existing prompt libraries
-- [x] Define the source, domain, and prompt-pack format
-- [x] Adopt the “verbatim or reject—never reconstruct” admission rule
-- [x] Publish the data policy and canonical Markdown collection format
-- [x] Curate an initial 30-post candidate batch with all 242 promised prompt slots
-- [x] Store every prompt pack as a canonical Markdown item under its division
-- [x] Generate categorized README and catalog indexes from those source files
-- [x] Validate IDs, URLs, counts, metadata, directories, and prompt blocks locally
-- [ ] Re-source the initial 30 packs; replace each rewrite with verified original text or remove it
-- [ ] Add the contribution guide and GitHub submission forms
-- [ ] Add prompt fixtures, evaluations, and CI
-- [ ] Add duplicate detection and show where the same prompt keeps resurfacing
-- [ ] Add official API-assisted discovery without auto-publishing
-- [ ] Consider a searchable static site after the collection proves useful
-
 ## Submit a post
 
 For now, open an issue with:
@@ -366,7 +349,3 @@ X, Threads, Facebook, Instagram, Reddit, LinkedIn, TikTok, Bluesky, Mastodon, an
 Income, performance, and “replacement” statements belong to the source and are not endorsed by this project. Prompt text is preserved rather than silently rewritten, and publication still requires attribution and an appropriate basis. The repository’s MIT license covers its code; third-party content keeps its own rights.
 
 This project is unaffiliated with the platforms and model providers mentioned in collected posts.
-
-## Format inspiration
-
-The browsing structure borrows the best parts of [The Agency](https://github.com/msitarzewski/agency-agents)—categorized directories and one file per item—and [Awesome Prompts](https://github.com/ai-boost/awesome-prompts)—compact name, description, and direct-link tables.

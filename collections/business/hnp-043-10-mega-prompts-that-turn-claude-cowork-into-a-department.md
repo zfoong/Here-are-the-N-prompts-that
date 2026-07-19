@@ -163,7 +163,3 @@ Write a follow-up email draft ready to send to all attendees.
 
 Compile everything into MEETING-ACTIONS.docx with a section per meeting. Then create a master ACTION-TRACKER.xlsx with all action items across all meetings in one table, columns for: action, owner, deadline, status (open/in progress/done), and meeting it came from.
 ```
-
-## Source
-
-Reproduced from [u/Silent_Employment966 on Reddit](https://www.reddit.com/r/AskVibecoders/comments/1rhw7yu/10_mega_prompts_that_turn_claude_cowork_into_a) with formatting-only changes.

@@ -97,7 +97,3 @@ Create a standardized agenda for a "Quarterly Strategy Day" (4-hour duration) to
 
 Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/5-ai-prompts-for-2026-business-planning/25951254574480698/) with formatting-only changes.

@@ -73,7 +73,3 @@ I am prone to confirmation bias on this topic. Every time I make a claim, I want
 ```text
 In this session, prioritize divergent thinking. If I suggest a solution, provide three alternatives that are radically different in approach, even if they seem less likely to succeed. I need to see the full spectrum of the problem space.
 ```
-
-## Source
-
-Reproduced from [u/Wenria on Reddit](https://www.reddit.com/r/PromptDesign/comments/1pxvsxw/escaping_yesman_behavior_in_llms) with formatting-only changes.

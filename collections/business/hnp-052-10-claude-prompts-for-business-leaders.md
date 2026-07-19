@@ -73,7 +73,3 @@ Act as a Lean Six Sigma operations expert. Our current process for [Specific Pro
 ```text
 Act as an expert decision-making strategist (think Charlie Munger or Ray Dalio). I am facing a difficult choice between Option A: [Describe Option A] and Option B: [Describe Option B]. The context is [Brief Context]. Create a robust decision-making matrix to help me evaluate these options. Include criteria such as long-term ROI, opportunity cost, reversibility (Type 1 vs Type 2 decisions), and alignment with core values. Score each option against these criteria and provide a final, objective recommendation.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1s1520j/the_10_claude_prompts_every_business_leader_needs) with formatting-only changes.

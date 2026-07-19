@@ -61,7 +61,3 @@ Act as a Content Marketing Strategist. [Context: We want to be seen as leaders i
 ```text
 Act as a Customer Journey Architect. [Context: Our product, [Insert Product], is just one step in a larger process. After customers use us, they usually need help with [Insert Next Task]. Our weakness is that we don't provide that next step.] [Task: Find 3 businesses that provide the "Next Step" for our customers. Design a "Post-Purchase Bundle" where our customers get a special deal on their service, and they offer a "Pre-Purchase" deal on ours to their incoming clients.] Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/8-ai-prompts-for-strategic-partnership-architecture/26101637562775731/) with formatting-only changes.

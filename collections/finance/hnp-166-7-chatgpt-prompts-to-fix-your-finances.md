@@ -55,7 +55,3 @@ Make me a debt payoff plan that's fast but won't burn me out.
 ```text
 What are 3 ways to automate saving money with all of my streams of income?
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/i-gave-chatgpt-access-to-my-finances-and-it-fixed-my-entire-financial-lifethese-/10160670424096256/) with formatting-only changes.

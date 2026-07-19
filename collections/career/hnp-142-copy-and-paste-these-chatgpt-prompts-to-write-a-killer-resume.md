@@ -73,7 +73,3 @@ Review my resume and suggest ways to showcase my creativity and innovative contr
 ```text
 Provide recommendations on how to improve the visual layout and formatting of my resume to make it more appealing and easy to read. Here's my resume: [Paste Resume].
 ```
-
-## Source
-
-Reproduced from [Mr Bashar Gulumbe on Facebook](https://www.facebook.com/MrBasharGulumbe/posts/copy-and-paste-these-chatgpt-prompts-to-write-a-killerresumeturn-your-resume-int/122203374812053141/) with formatting-only changes.

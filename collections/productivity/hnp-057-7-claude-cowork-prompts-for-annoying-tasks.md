@@ -55,7 +55,3 @@ Read the To-Do List file in this folder. STEP 1 - TRIAGE For any urgent task: Cr
 ```text
 Read the blog post file in this folder. Create a Social_Content_Calendar.docx with: SECTION 1 - TWITTER/X THREAD (10 posts) Write a 10-post thread telling the main story. Under 280 characters each. Hook in post 1, call to action in post 10. SECTION 2 - LINKEDIN POST Write one post (1000-1300 characters) presenting the key insight. Open with a bold statement, use short paragraphs, end with a question. SECTION 3 - EMAIL NEWSLETTER BLURB Write a 150-word summary teasing the value with a call to action. SECTION 4 - SHORT-FORM VIDEO SCRIPT Write a 60-second script. Include a 3-second hook, main point, and closing engagement line. SECTION 5 - PULL QUOTES Extract 5 standalone quotes (10-20 words) for graphics. SECTION 6 - SUGGESTED HASHTAGS Provide 15 relevant hashtags: 5 broad, 5 niche, 5 branded.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1s7gys7/7_claude_cowork_prompts_that_automate_your_most) with formatting-only changes.

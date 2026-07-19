@@ -109,7 +109,3 @@ Act as a Creative Director.
 
 Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/8-ai-prompts-for-reputation-building-youtube-shorts/26135310862741734/) with formatting-only changes.

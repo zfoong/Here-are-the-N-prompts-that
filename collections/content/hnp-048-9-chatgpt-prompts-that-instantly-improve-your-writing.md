@@ -88,7 +88,3 @@ Rewrite this paragraph in three ways:
 Then tell me which sounds best for my goal.
 Text: [paste text]
 ```
-
-## Source
-
-Reproduced from [u/tipseason on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1oa0wc4/9_chatgpt_prompts_that_instantly_improve_your) with formatting-only changes.

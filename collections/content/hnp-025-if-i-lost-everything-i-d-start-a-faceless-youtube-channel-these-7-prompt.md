@@ -55,7 +55,3 @@ Compare four monetization options for a [NICHE] channel without ad revenue, incl
 ```text
 Create a 28-day publishing experiment for [NICHE] and [CAPACITY], with topics, format, production budget, success metrics, and weekly adjustment rules.
 ```
-
-## Source
-
-Distilled from [Sharif Ceasar on Facebook](https://www.facebook.com/threalmelaninking/posts/if-i-lost-everything-id-start-a-faceless-youtube-channel-right-awayno-face-no-mi/754579557427080/). The prompts are transformed templates, not a verbatim copy.

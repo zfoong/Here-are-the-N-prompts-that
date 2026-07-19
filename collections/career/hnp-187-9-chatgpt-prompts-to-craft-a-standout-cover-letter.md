@@ -67,7 +67,3 @@ Give examples of my problem-solving skills and how they have led to successful o
 ```text
 Explain how my professional connections and collaborations have contributed to my career success and how they will benefit me in the job I'm applying for. Here's my resume: [Paste Resume]. Here's the job description: [Paste Job Description].
 ```
-
-## Source
-
-Reproduced from [Altiam Kabir on Facebook](https://www.facebook.com/altiamkabir/posts/copy-and-paste-these-chatgpt-prompts-to-craft-a-standout-cover-letter-here-are-9/24962331633401180/) with formatting-only changes.

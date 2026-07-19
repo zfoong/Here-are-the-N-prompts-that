@@ -43,7 +43,3 @@ Every Friday at noon, summarize the week's top tech news.
 ```text
 Every morning at 8 AM, review my code snippet and suggest optimizations.
 ```
-
-## Source
-
-Reproduced from [Austin Armstrong on Facebook](https://www.facebook.com/Owwstin/posts/yesterday-chatgpt-announced-chatgpt-taskshere-are-5-really-cool-things-you-can-d/10160197961696256/) with formatting-only changes.

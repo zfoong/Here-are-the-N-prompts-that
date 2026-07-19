@@ -73,7 +73,3 @@ Give me memory tricks to recall [concept].
 ```text
 Improve my essay/notes on [topic] and explain why.
 ```
-
-## Source
-
-Reproduced from [Altiam Kabir on Facebook](https://www.facebook.com/altiamkabir/posts/here-are-10-smart-prompts-to-turn-chatgpt-into-your-personal-tutor-explain-topic/24656849840616029/) with formatting-only changes.

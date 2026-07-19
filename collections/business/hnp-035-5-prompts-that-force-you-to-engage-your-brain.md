@@ -43,7 +43,3 @@ I'm about to spend 10 hours on [task]. Is this genuinely important, or am I avoi
 ```text
 Explain why [technical thing] matters in terms my CFO would actually care about. No jargon. Just business impact.
 ```
-
-## Source
-
-Reproduced from [u/EQ4C on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1r6ugif/that_brutally_honest_ai_ceo_tweet_5_prompts/) with formatting-only changes.

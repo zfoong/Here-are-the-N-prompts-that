@@ -73,7 +73,3 @@ Act as a content repurposer. Turn this [blog post / blog idea / newsletter] into
 ```text
 Review my day: what went well, what felt wasteful, and what adjustments should I make for tomorrow.
 ```
-
-## Source
-
-Reproduced from [u/nightthustler on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1o3sz5p) with formatting-only changes.

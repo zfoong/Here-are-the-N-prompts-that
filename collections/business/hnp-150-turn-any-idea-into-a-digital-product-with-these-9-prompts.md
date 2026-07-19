@@ -67,7 +67,3 @@ Take this single idea [X] and show me how to turn it into: a free lead magnet, a
 ```text
 My digital product is live but not selling. Here's what I have: [description]. Diagnose the problem and suggest 3 fixes.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/turn-any-idea-into-a-digital-product-with-these-9-promptscopy-and-paste-below/1449242297216225/) with formatting-only changes.

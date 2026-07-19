@@ -55,7 +55,3 @@ Transform [SOURCE_CONTENT] into platform-native versions for [PLATFORMS]. Preser
 ```text
 Organize [ROUGH_NOTES] into themes, actions, priorities, open questions, and connections. Keep original wording for uncertain ideas and produce a compact reference summary.
 ```
-
-## Source
-
-Distilled from [u/AdImpossible3465 on Reddit](https://www.reddit.com/r/ChatGPT/comments/1r4azlh/i_tested_100_prompts_over_3_months_these_7_are/). The prompts are transformed templates, not a verbatim copy.

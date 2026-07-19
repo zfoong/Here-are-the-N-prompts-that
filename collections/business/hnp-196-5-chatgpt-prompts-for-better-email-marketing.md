@@ -43,7 +43,3 @@ Write an email promoting my product/service called [product name]. Highlight the
 ```text
 Write an email to subscribers who haven't opened my emails in a while. Ask if they still want to hear from me and give them a reason to stay.
 ```
-
-## Source
-
-Reproduced from [Mrs Mckneely on Facebook](https://www.facebook.com/MrsMckneely/posts/5-chatgpt-prompts-that-will-take-your-email-marketing-to-the-next-level-/25544426931903145/) with formatting-only changes.

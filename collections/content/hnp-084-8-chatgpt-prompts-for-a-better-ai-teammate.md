@@ -61,7 +61,3 @@ You're my content planner. Build a simple system to post 3 times a week: 1 autho
 ```text
 You're a copywriter. Rewrite my Instagram bio and LinkedIn about section to attract [TARGET CLIENT], show value, and include a subtle CTA. Keep both under character limits.
 ```
-
-## Source
-
-Reproduced from [u/IAmAzharAhmed on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1mx2d7l) with formatting-only changes.

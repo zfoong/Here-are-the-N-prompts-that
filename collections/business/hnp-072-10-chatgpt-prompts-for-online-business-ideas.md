@@ -73,7 +73,3 @@ Suggest ideas for building a small online brand.
 ```text
 Write a simple business plan for an AI-based project.
 ```
-
-## Source
-
-Reproduced from [u/Ok_Bed5046 on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1rub1zb/10_useful_chatgpt_prompts_for_generating_online) with formatting-only changes.

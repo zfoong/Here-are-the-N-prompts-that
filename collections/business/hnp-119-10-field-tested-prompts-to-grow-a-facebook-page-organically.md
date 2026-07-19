@@ -73,7 +73,3 @@ Create 5 Facebook posts that act like informal polls about [topic]. Each post sh
 ```text
 Take one core idea about [topic] and repurpose it into: – 1 story-based Facebook post – 1 educational Facebook post – 1 opinion-based Facebook post – 1 short question-only post. Each version must feel native to Facebook, not recycled.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/SimplyDigital.gr/posts/these-are-10-legit-field-tested-prompts-you-can-literally-paste-into-chatgpt-or-/1389240606549728/) with formatting-only changes.

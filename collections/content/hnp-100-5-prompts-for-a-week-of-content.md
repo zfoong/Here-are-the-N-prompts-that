@@ -43,7 +43,3 @@ My video is about [topic]. My channel niche is [niche]. Target viewer: [descript
 ```text
 I create content about [topic] for [audience]. Suggest 7 content ideas for this week — one per day. For each: the angle, the platform best suited, the emotional hook, and the core message in one sentence. Avoid generic advice.
 ```
-
-## Source
-
-Reproduced from [u/Visible-Pause8837 on Reddit](https://www.reddit.com/r/Entrepreneurs/comments/1tz8rvo) with formatting-only changes.

@@ -49,7 +49,3 @@ Simplify this draft [paste text] to a 7th-grade reading level without losing imp
 ```text
 Proofread and edit this text [paste text] for grammar, conciseness, and readability. Suggest 3 improvements that would make it more engaging for [audience].
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/with-the-right-prompts-you-can-ideate-faster-edit-sharper-and-publish-more-confi/10174306366200347/) with formatting-only changes.

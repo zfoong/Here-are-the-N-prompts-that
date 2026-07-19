@@ -49,7 +49,3 @@ Write hex codes, font sizes, and hierarchy guidelines to turn the wireframe into
 ```text
 Generate a pre-flight checklist for exporting this design to JPG, PNG, PDF, and MP4, including resolution, compression targets, and naming conventions.
 ```
-
-## Source
-
-Reproduced from [Altiam Artificial Intelligence on Facebook](https://www.facebook.com/altiam.artificialintelligence/posts/still-dragging-boxes-in-canva-for-hours-steal-these-6-prompts-and-g%D0%B5t-studio-lev/122176963610620880/) with formatting-only changes.

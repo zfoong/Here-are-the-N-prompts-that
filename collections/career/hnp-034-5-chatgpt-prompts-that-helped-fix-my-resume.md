@@ -43,7 +43,3 @@ Improve my resume summary to sound more results-driven and specific
 ```text
 Identify missing skills or keywords in my resume for this role
 ```
-
-## Source
-
-Reproduced from [u/Hadraaal on Reddit](https://www.reddit.com/r/Resume/comments/1s14qhf/i_used_chatgpt_to_fix_my_resume_and_started/) with formatting-only changes.

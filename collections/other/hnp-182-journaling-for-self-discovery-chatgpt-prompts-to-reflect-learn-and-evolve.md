@@ -43,7 +43,3 @@ Today, I feel [insert feeling]. Help me unpack why I might be feeling this way, 
 ```text
 Lead me through a visualization journal exercise that helps me align my daily habits with the future I want to create.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/journaling-for-self-discoveryuse-these-chatgpt-prompts-to-reflect-learn-and-evol/10173784049950347/) with formatting-only changes.

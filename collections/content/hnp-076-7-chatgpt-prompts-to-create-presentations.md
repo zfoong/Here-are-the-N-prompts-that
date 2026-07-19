@@ -177,7 +177,3 @@ Strong answer to that question
 Make the delivery sound natural, confident, and conversational.
 Do not make me sound like I am reading bullet points.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/CMO_Huddles/comments/1tmqv7o/use_these_7_chatgpt_prompts_to_create_stunning) with formatting-only changes.

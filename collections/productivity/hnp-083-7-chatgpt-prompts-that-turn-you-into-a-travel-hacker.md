@@ -72,7 +72,3 @@ Translate these phrases into [language] with phonetic pronunciation.
 Include polite versions for greetings, ordering food, and asking directions.
 Add one local phrase that makes people smile.
 ```
-
-## Source
-
-Reproduced from [u/tipseason on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1o134ut) with formatting-only changes.

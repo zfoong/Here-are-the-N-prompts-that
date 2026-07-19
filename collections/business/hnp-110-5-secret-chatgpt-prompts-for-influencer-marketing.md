@@ -43,7 +43,3 @@ Generate a list of trending hashtags and niche-specific tags for a campaign in t
 ```text
 Provide a framework to calculate the potential ROI of collaborating with influencers in the [specific niche], factoring in costs, reach, and engagement.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/5-secret-prompts-of-chatgpt-for-influencer-marketing/10173094676315347/) with formatting-only changes.

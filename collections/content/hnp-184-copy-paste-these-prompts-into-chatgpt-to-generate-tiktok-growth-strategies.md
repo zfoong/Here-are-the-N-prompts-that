@@ -43,7 +43,3 @@ Write 5 TikTok video ideas that are guaranteed to spark conversation, reactions,
 ```text
 Review and rewrite my TikTok bio, name, and link strategy to make it more searchable, memorable, and growth-oriented in the [niche] space.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/copy-paste-these-prompts-into-chatgptlet-it-generate-tiktok-growth-strategies-yo/10173835081270347/) with formatting-only changes.

@@ -55,7 +55,3 @@ ChatGPT, rewrite this draft [paste text] in my authentic voice but tuned to reso
 ```text
 ChatGPT, based on my current writing style [paste sample], show me how I can refine it to feel even more authentic while also being persuasive, engaging, and memorable. Give me a roadmap for leveling up my voice over the next 3 months.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/write-like-you-not-ai-7-chatgpt-prompts-to-perfect-your-authentic-voice-stop-sou/10174294370550347/) with formatting-only changes.

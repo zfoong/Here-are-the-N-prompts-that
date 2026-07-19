@@ -37,7 +37,3 @@ After teaching me the topic [insert topic], create challenging recall questions 
 ```text
 Design a compressed learning roadmap for mastering [insert skill] as efficiently as possible, prioritizing only the highest-value concepts and eliminating low-impact topics that slow down learning progress.
 ```
-
-## Source
-
-Reproduced from [@yourchatgptguide on Threads](https://www.threads.com/@yourchatgptguide/post/DWoZ0z5jfgL) with formatting-only changes.

@@ -133,7 +133,3 @@ Write financial commentary for [Period] results: 1) Explain key variances vs pri
 ```text
 Design [specific] finance policy for [Company]: 1) Define policy objectives and scope 2) Detail approval matrix and thresholds 3) Document procedures and controls 4) Include compliance requirements 5) Create exception handling process 6) Define KPIs and monitoring 7) Include training requirements 8) Add forms and templates. Ensure SOX compliance and include RACI matrix for all processes.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1nh825x) with formatting-only changes.

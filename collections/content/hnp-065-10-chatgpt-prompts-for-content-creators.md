@@ -73,7 +73,3 @@ about [topic]. Give subject line and body for each." 9. "Write a meta descriptio
 ```text
 and a comment question." --- I put together 290 more of these (300 total) organized
 ```
-
-## Source
-
-Reproduced from [u/SwiftNovaMind on Reddit](https://www.reddit.com/r/SideProject/comments/1udrori/i_compiled_300_chatgpt_prompts_specifically_for) with formatting-only changes.

@@ -37,7 +37,3 @@ I need 12 Facebook post angles that naturally generate leads for [insert your se
 ```text
 Act as a Facebook algorithm strategist. I'll paste a post. You'll analyse it and: 1. Rewrite it for maximum reach 2. Improve the hook 3. Add story elements where needed 4. Adjust structure for retention 5. Suggest the ideal CTA 6. Tell me EXACTLY what makes this optimized version work based on 2025 engagement signals: watch time, comment depth, share intention, dwell time, re-engagement signals. Give me the optimized post + a breakdown.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/plug-these-prompts-directly-into-chatgpt-to-help-your-facebook-page-improve/1385689990238123/) with formatting-only changes.

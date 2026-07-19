@@ -55,7 +55,3 @@ Outline an aspirational thread about lessons from [EXPERIENCE]. Keep the claims 
 ```text
 Turn [QUOTE_OR_IDEA] into a short response that adds one practical action, one example, and respectful attribution.
 ```
-
-## Source
-
-Distilled from [Benson Sung on LinkedIn](https://www.linkedin.com/posts/bensonsung_chatgpt-has-180000000-users-but-almost-activity-7137840564376387584-U8nN). The prompts are transformed templates, not a verbatim copy.

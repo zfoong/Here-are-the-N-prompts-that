@@ -133,7 +133,3 @@ I'm the CFO of a fashion retailer. Help me draft board commentaries based on the
 ```text
 I'm an accountant using QuickBooks. I need a step-by-step SOP for bank reconciliation that complies with standard internal controls. Make it clear, structured, and practical — like a finance team documenting clean processes for an audit-ready company.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/UnaAI/comments/1srnqwg/the_20_claude_chatgpt_prompts_that_separate_elite) with formatting-only changes.

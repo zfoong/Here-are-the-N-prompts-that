@@ -55,7 +55,3 @@ Develop assignments on [topic] at beginner, intermediate, and advanced levels.
 ```text
 Build a grading rubric for [assignment type] that's clear, balanced, and fair.
 ```
-
-## Source
-
-Reproduced from [Casper Capital on Facebook](https://www.facebook.com/100089314351644/posts/teachers-these-7-chatgpt-prompts-will-halve-your-workload1-design-a-40-minute-le/972716219048848/) with formatting-only changes.

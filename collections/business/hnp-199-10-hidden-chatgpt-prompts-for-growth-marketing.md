@@ -73,7 +73,3 @@ Give me 5 creative ways to grow my [audience/email list] in [X days/weeks].
 ```text
 I've got limited [time/money/resources]. How do I get 10x output with AI?
 ```
-
-## Source
-
-Reproduced from [Logan Miller on Facebook](https://www.facebook.com/LoganMillerVideos/posts/10-hidden-chatgpt-prompts-they-dont-want-you-to-usetheyre-not-illegalbut-they-fe/944986738495144/) with formatting-only changes.

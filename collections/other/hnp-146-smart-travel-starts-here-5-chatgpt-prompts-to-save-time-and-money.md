@@ -43,7 +43,3 @@ What are the essential packing tips for a [type of trip, e.g., weekend getaway, 
 ```text
 What are the best days and times to book flights and hotels for [specific destination] to save the most money?
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/smart-travel-starts-here5-chatgpt-prompts-to-save-time-and-money/10173374476020347/) with formatting-only changes.

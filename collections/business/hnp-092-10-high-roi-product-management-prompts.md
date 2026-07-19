@@ -354,7 +354,3 @@ Conduct comprehensive competitive feature analysis for [specific feature/product
 - SWOT analysis per competitor
 - Strategic recommendations with rationale
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1np1r4u) with formatting-only changes.

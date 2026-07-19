@@ -61,7 +61,3 @@ Act as an Instagram SEO Specialist. [Context: I am posting a Reel about [Insert 
 ```text
 Act as a High-Retention Content Creator. [Context: I want to share a list of [Insert Number, e.g., 5] tools/tips for [Insert Audience]. I want the video to be very fast-paced so people have to watch it twice to read everything.] [Task: Create a script for a 15-second "Value Stack." Provide the text for 5 fast-flashing text overlays. Write a "Looping" script where the final sentence connects perfectly to the start of the video to trick the viewer into a second loop.] Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/8-ai-prompts-for-amazing-instagram-reels/26134553682817452/) with formatting-only changes.

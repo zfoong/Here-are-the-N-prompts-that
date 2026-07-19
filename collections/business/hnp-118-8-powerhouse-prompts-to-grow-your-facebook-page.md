@@ -61,7 +61,3 @@ Create 15 Facebook posts designed purely to maximize comments in the niche of [i
 ```text
 Help me design a 7-part Facebook content series around [insert topic]. Each post should have a clear theme, build on the previous post, tease the next part, and include a reason for people to follow or turn on notifications. Make the structure addictive and anticipation-driven. Suggest a naming format for the series that makes people recognize it instantly in the feed.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/SimplyDigital.gr/posts/here-are-8-powerhouse-prompts-you-can-plug-straight-into-chatgpt-to-grow-your-fa/1399050515568737/) with formatting-only changes.

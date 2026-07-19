@@ -200,7 +200,3 @@ Continue this chain 3-4 steps.
 
 What are the non-obvious consequences I should prepare for?
 ```
-
-## Source
-
-Reproduced from [u/zmilesbruce on Reddit](https://www.reddit.com/r/ChatGPT/comments/1qblp9j/i_save_every_great_chatgpt_prompt_i_find_here_are) with formatting-only changes.

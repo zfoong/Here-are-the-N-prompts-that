@@ -61,7 +61,3 @@ Suggest three small lead magnets for [AUDIENCE] and [PAIN_POINT], scored for use
 ```text
 Analyze [RECENT_POSTS_AND_OFFERS] for the audience they imply, mismatch with [TARGET_AUDIENCE], and subtle course corrections that preserve continuity.
 ```
-
-## Source
-
-Distilled from [Dorcas Famoriyo on LinkedIn](https://www.linkedin.com/posts/dorcasfamoriyo_here-are-8-chatgpt-prompts-i-can-literally-activity-7342881506601660417-9zKQ). The prompts are transformed templates, not a verbatim copy.

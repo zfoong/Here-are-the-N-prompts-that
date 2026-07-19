@@ -31,7 +31,3 @@ Ask ten questions about [SUBJECT], environment, prior results, and constraints. 
 ```text
 Treat [BUSINESS_IDEA] as a pre-mortem. Identify three blind spots, five plausible failure modes, competitive vulnerabilities, evidence required, and the single highest-value validation test.
 ```
-
-## Source
-
-Distilled from [u/Big-Initiative-4256 on Reddit](https://www.reddit.com/r/ChatGPT/comments/1sfsdpj/i_tested_20_viral_chatgpt_prompts_here_are_the_3/). The prompts are transformed templates, not a verbatim copy.

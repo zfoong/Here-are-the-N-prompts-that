@@ -61,7 +61,3 @@ I am going to share my thinking on {{PROBLEM OR BELIEF}} and I want you to find 
 ```text
 I want to build a personal operating system for how I make decisions, manage my time, and allocate my energy. → Start by asking me the 5 questions you would need answered to build this properly. Wait for my responses before continuing. → Once I have answered, design a complete operating system built specifically around my answers. Not a generic productivity framework. A system that reflects my actual constraints, values, and goals. → Include: a decision-making filter for when I face tradeoffs, a weekly review structure that takes under 20 minutes, a rule for what I stop doing immediately, and a single metric I use to evaluate whether a week was successful → End with the one belief I currently hold about productivity or time that this system implicitly challenges → Rules: Generic frameworks like time blocking or the Eisenhower matrix are only acceptable if they are meaningfully adapted to my specific situation.
 ```
-
-## Source
-
-Reproduced from [Anik Singal on Facebook](https://www.facebook.com/aniksingalcom/posts/there-is-no-god-mode-in-claude-but-these-8-prompts-unlock-something-close-to-it-/1512333516922707/) with formatting-only changes.

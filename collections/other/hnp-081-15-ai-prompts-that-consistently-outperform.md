@@ -103,7 +103,3 @@ Write a cold outreach email to [recipient type] at [company type]. Goal: [goal].
 ```text
 Write a property listing for: [address, beds, baths, sqft, key features]. Highlight the lifestyle, not just features. Open with the strongest emotional hook. Include neighborhood highlights and a sense of urgency.
 ```
-
-## Source
-
-Reproduced from [u/Outrageous_Camp_3532 on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1s9n81b/i_tested_500_ai_prompts_across_10_categories_here) with formatting-only changes.

@@ -55,7 +55,3 @@ Inventory my demonstrated knowledge [EXPERIENCE_AND_EVIDENCE], map problems it c
 ```text
 Challenge [STRATEGY] by identifying missing evidence, avoided trade-offs, incentives, failure modes, and disconfirming tests; finish with the strongest surviving case.
 ```
-
-## Source
-
-Distilled from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/chatgpt-has-a-secret-modeit-can-think-like-a-godnot-for-busyworknot-for-basic-ta/10173818751415347/). The prompts are transformed templates, not a verbatim copy.

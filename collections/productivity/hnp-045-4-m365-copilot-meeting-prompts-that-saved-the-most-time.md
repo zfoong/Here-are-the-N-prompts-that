@@ -63,7 +63,3 @@ as action, owner, date; what we did not get to. Match the tone of my
 sent mail to this group. Keep it under 150 words. Give me a draft to
 edit, not a message to send.
 ```
-
-## Source
-
-Reproduced from [u/Difficult-Sugar-4862 on Reddit](https://www.reddit.com/r/microsoft_365_copilot/comments/1uv6fbb/with_my_colleagues_we_tested_18_m365_copilot) with formatting-only changes.

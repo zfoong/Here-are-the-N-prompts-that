@@ -43,7 +43,3 @@ What edge cases am I missing in this function?
 ```text
 Check your own answer for mistakes
 ```
-
-## Source
-
-Reproduced from [u/One-Deer335 on Reddit](https://www.reddit.com/r/BuildWithClaude/comments/1tpj0gc/i_tested_50_claude_prompts_specifically_for) with formatting-only changes.

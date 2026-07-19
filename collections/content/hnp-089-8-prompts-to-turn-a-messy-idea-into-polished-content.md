@@ -61,7 +61,3 @@ Act as a clarity editor. Cut filler, remove repeated ideas, cap sentences at 20 
 ```text
 You're a conversion writer. Provide 5 CTA options that feel natural for this post, each targeting one goal: saves, shares, clicks, DMs, or bookings.
 ```
-
-## Source
-
-Reproduced from [u/IAmAzharAhmed on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1n7z7x4) with formatting-only changes.

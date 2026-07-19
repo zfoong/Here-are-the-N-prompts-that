@@ -114,7 +114,3 @@ Act as a geopolitical strategist. Analyze the potential impact of [input specifi
 2.  **Potential "Safe Haven" Sectors:** Which 3 sectors might be considered relative safe havens or might even benefit during this event?
 3.  **Portfolio Hedging Strategies:** Suggest two strategies an investor could use to hedge their portfolio against this specific risk (e.g., buying specific inverse ETFs, increasing allocation to a certain commodity like gold, etc.).
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/ThinkingDeeplyAI/comments/1mik917/how_to_use_ai_to_analyze_stocks_like_a_wall) with formatting-only changes.

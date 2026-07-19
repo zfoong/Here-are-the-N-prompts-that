@@ -43,7 +43,3 @@ Write an open house invitation email for [ADDRESS] on [DATE] at [TIME]. Include 
 ```text
 Write talking points for presenting a low offer of [$OFFER] vs list price [$LIST] to my seller client. Frame it constructively. Guide them toward a strategic counter.
 ```
-
-## Source
-
-Reproduced from [u/Altruistic_Pear_4396 on Reddit](https://www.reddit.com/r/Entrepreneurs/comments/1t3fpca/5_ai_prompts_that_write_real_estate_content_in) with formatting-only changes.

@@ -191,7 +191,3 @@ For each opportunity, suggest:
 - Outreach strategy with message templates
 End with a prioritized partnership roadmap for the next 6 months, including sample outreach message templates I can customize.
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/promptingmagic/comments/1o9mvwc) with formatting-only changes.

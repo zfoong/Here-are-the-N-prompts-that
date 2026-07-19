@@ -55,7 +55,3 @@ Explain [insert stock's] latest earnings report in simple terms. What stood out,
 ```text
 Assist me in creating a simple Google Sheets stock tracker that pulls live prices and highlights daily/weekly changes. Include columns for cost basis, % change, and target price.
 ```
-
-## Source
-
-Reproduced from [Casper Capital on Facebook](https://www.facebook.com/100089314351644/posts/i-stopped-manually-monitoring-stocks-daily-these-7-chatgpt-prompts-now-track-eva/799276789726126/) with formatting-only changes.

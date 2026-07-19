@@ -49,7 +49,3 @@ Add ATS-relevant keywords from this job description into this section.
 ```text
 Draft a role-specific cover letter using my résumé + the job posting.
 ```
-
-## Source
-
-Reproduced from [Casper Capital on Facebook](https://www.facebook.com/100089314351644/posts/stop-asking-chatgpt-to-write-my-resumegeneric-copy-no-responsesuse-these-prompts/975518262101977/) with formatting-only changes.

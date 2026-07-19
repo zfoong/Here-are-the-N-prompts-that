@@ -55,7 +55,3 @@ Map acquisition and distribution channels in [INDUSTRY] from cited evidence. Ide
 ```text
 Find adjacent industries with similar customer jobs. Compare their solutions and constraints, then propose three cross-pollination experiments rather than assuming transferability.
 ```
-
-## Source
-
-Distilled from [Tom Bilyeu on Facebook](https://www.facebook.com/tombilyeu/posts/market-research-firms-charge-30000-for-insights-i-get-from-chatgpt-in-30-minutes/1315054873322312/). The prompts are transformed templates, not a verbatim copy.

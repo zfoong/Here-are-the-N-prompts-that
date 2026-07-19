@@ -31,7 +31,3 @@ Create a WordPress-ready blog outline for [topic]. Include H2/H3 structure, FAQs
 ```text
 Rewrite this paragraph in active voice, keep readability high, reduce fluff, and naturally blend in these keywords: [list]. Don’t sound robotic.
 ```
-
-## Source
-
-Reproduced from [u/Comfortable-Hope3991 on Reddit](https://www.reddit.com/r/SEOorganic/comments/1oe7kjz/chatgpt_prompts_that_took_my_wordpress_site_from) with formatting-only changes.

@@ -55,7 +55,3 @@ Build a consistent upload schedule for a YouTube channel in [niche] that's aimin
 ```text
 Explain how to read YouTube analytics for a [niche] channel to spot top-performing content and optimize future videos for growth.
 ```
-
-## Source
-
-Reproduced from [Logan Miller on Facebook](https://www.facebook.com/LoganMillerVideos/posts/chatgpt-youtube-100k-views-in-30-daysuse-these-7-prompts-to-script-optimize-and-/972725345721283/) with formatting-only changes.

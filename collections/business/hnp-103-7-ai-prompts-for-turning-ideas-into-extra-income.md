@@ -55,7 +55,3 @@ Act as a business launch coach. Take my idea: [INSERT IDEA]. Create a step-by-st
 ```text
 Act as a productivity accountability partner. I have multiple ideas [INSERT IDEAS]. Help me pick ONE to focus on first and design a simple system to keep me committed for 30 days.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-for-turning-ideas-into-extra-income/24925505053722327/) with formatting-only changes.

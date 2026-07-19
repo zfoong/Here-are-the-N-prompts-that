@@ -55,7 +55,3 @@ Explain how to configure legitimate price alerts for [ROUTE] below [THRESHOLD] u
 ```text
 Compare a round trip with mixed one-way tickets for [ROUTE], including total cost, baggage, change rules, and loss of through-ticket protection.
 ```
-
-## Source
-
-Distilled from [Mary Henderson on Facebook](https://www.facebook.com/maryhendersoncoaching/videos/the-1240-flight-i-booked-for-620-7-chatgpt-prompts-airlines-dont-want-you-to-see/1838410977103897/). The prompts are transformed templates, not a verbatim copy.

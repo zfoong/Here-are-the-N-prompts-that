@@ -157,7 +157,3 @@ Turn this boring explanation into a short story that makes the point memorable. 
 ```text
 Brainstorm 20 content ideas around this theme, ranked from safest to boldest. Theme: [paste].
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/save-these-copy-paste-prompts-that-actually-work-work-writing-learning-business/1377897074350748/) with formatting-only changes.

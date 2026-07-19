@@ -82,7 +82,3 @@ Go through each hat (White, Red, Black, Yellow, Green, Blue) sequentially.
 For each hat, provide a brief 3-bullet point analysis based on the principles of Edward de Bono.
 Conclude with a 'Blue Hat' final recommendation that balances the risks of the Black Hat with the opportunities of the Yellow and Green Hats.
 ```
-
-## Source
-
-Reproduced from [u/EQ4C on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1q8o4wm/de_bonos_six_thinking_hats_to_7_ai_prompts_that/) with formatting-only changes.

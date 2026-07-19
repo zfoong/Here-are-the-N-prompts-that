@@ -73,7 +73,3 @@ Analyze [JOB_DESCRIPTION] for core outcomes, required evidence, keywords, ambigu
 ```text
 Draft a short message to [PERSON] at [COMPANY] based on [REAL_CONNECTION_OR_INTEREST], asking one informed question without requesting a job or pretending familiarity.
 ```
-
-## Source
-
-Distilled from [Nayeem Sheikh on LinkedIn](https://www.linkedin.com/posts/heynayeem_copy-and-paste-these-chatgpt-prompts-to-land-activity-7263183269284720640-e7J2). The prompts are transformed templates, not a verbatim copy.

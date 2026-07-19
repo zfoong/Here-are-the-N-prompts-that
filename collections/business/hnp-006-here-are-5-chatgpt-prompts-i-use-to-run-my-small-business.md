@@ -43,7 +43,3 @@ Generate [COUNT] caption options for [BUSINESS] about [TOPIC], each with a disti
 ```text
 Draft a calm response to [CUSTOMER_MESSAGE]. Summarize the concern, state what can and cannot be done under [POLICY], and offer the clearest next step.
 ```
-
-## Source
-
-Distilled from [u/Ok-Term-1270 on Reddit](https://www.reddit.com/r/HowToEntrepreneur/comments/1sdz87s/here_are_5_chatgpt_prompts_i_use_to_run_my_small/). The prompts are transformed templates, not a verbatim copy.

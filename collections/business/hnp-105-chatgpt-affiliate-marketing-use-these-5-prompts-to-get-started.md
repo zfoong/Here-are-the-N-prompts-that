@@ -43,7 +43,3 @@ Write a 5-part email series that builds trust and lightly pitches affiliate offe
 ```text
 Suggest ways to add affiliate CTAs naturally into content without sounding desperate.
 ```
-
-## Source
-
-Reproduced from [Owwstin on Facebook](https://www.facebook.com/Owwstin/posts/chatgpt-affiliate-marketing-m0ney-while-you-sleepuse-these-5-prompts-to-get-star/10160511849886256/) with formatting-only changes.

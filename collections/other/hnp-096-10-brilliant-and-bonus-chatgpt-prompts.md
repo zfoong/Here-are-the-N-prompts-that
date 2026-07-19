@@ -121,7 +121,3 @@ You are a brand voice consultant. I have brand messaging that feels inconsistent
 ```text
 You are my strategic thought partner. I'm looking to expand into a new market—[describe market]—but I need fresh perspectives. First, ask me 3 clarifying questions to ensure full context. Next, propose 5 unconventional market entry strategies. Then, list pros and cons for each, and finally, recommend one strategy you believe has the most long-term potential given the brand's identity and resources.
 ```
-
-## Source
-
-Reproduced from [u/Just-League-9417 on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1hh7p4b) with formatting-only changes.

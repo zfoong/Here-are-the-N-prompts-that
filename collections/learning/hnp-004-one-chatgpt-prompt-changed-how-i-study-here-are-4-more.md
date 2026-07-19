@@ -43,7 +43,3 @@ Explain [CONCEPT] in five layers: child, beginner, practitioner, advanced studen
 ```text
 Turn [NOTES] into concise active-recall questions, cloze cards, and two applied problems. Avoid trivia and prioritize concepts with the highest learning value.
 ```
-
-## Source
-
-Distilled from [u/himanshu_666 on Reddit](https://www.reddit.com/r/notioncreations/comments/1rppzm3/one_chatgpt_prompt_that_completely_changed_how_i/). The prompts are transformed templates, not a verbatim copy.

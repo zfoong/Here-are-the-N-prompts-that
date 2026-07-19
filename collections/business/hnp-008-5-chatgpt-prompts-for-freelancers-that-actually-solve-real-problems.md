@@ -43,7 +43,3 @@ Write a sub-[WORD_LIMIT]-word pitch from a [FREELANCE_ROLE] to [BUSINESS]. Lead 
 ```text
 Respond to a request for [EXTRA_WORK] beyond [AGREED_SCOPE]. Acknowledge it, explain the boundary, and offer a paid change at [RATE_OR_QUOTE_PROCESS].
 ```
-
-## Source
-
-Distilled from [u/Visible_Growth6335 on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1s8fy27/5_chatgpt_prompts_for_freelancers_that_actually/). The prompts are transformed templates, not a verbatim copy.

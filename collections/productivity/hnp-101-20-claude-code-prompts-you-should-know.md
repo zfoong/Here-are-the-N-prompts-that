@@ -133,7 +133,3 @@ I just inherited this codebase and I have no idea what it does. Walk me through 
 ```text
 We are ending this session. Write a handoff document summarizing what we built, every decision we made, and exactly where to pick up next time.
 ```
-
-## Source
-
-Reproduced from [Anik Singal on Facebook](https://www.facebook.com/aniksingalcom/posts/20-claude-code-prompts-you-should-knowsave-this-use-it-today-/1517933699696022/) with formatting-only changes.

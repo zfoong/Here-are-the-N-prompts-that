@@ -55,7 +55,3 @@ Design a complete paid ads strategy for Facebook, Instagram, or TikTok. Include 
 ```text
 Act as a CMO and create a 12-month marketing calendar with campaigns, themes, launches, seasonal promotions, and weekly execution steps. Make it realistic for a solo operator.
 ```
-
-## Source
-
-Reproduced from [Casper Capital on Facebook](https://www.facebook.com/100089314351644/posts/chatgpt-has-a-marketing-mode-and-its-insaneuse-these-7-expert-prompts-to-plan-bu/871521369168334/) with formatting-only changes.

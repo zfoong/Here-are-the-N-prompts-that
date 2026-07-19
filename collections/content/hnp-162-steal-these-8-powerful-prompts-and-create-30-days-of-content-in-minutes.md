@@ -61,7 +61,3 @@ Act as a content repurposing engine. Turn this long-form content into 5 reels, 5
 ```text
 Act as a social media optimizer. Analyze these 3 posts and tell me how to improve the hook, retention, storytelling, and CTA: [paste 3 posts].
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/steal-these-8-powerful-prompts-and-create-a-30-days-content-in-minutes/1329619065845216/) with formatting-only changes.

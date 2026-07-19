@@ -64,7 +64,3 @@ Be consistent in your use of grammar and avoid using cliches or unnecessary word
 The "imagine prompt" should strictly contain under 1,500 words. Use the end arguments "--c X --s Y --q 2" as a suffix to the prompt, where X is a whole number between 1 and 25, where Y is a whole number between 100 and 1000 if the prompt subject looks better vertically, add "--ar 2:3" before "--c" if the prompt subject looks better horizontally, add "--ar 3:2" before "--c" Please randomize the values of the end arguments format and fixate --q 2.
 Please do not use double quotation marks or punctuation marks. Please use randomized end suffix format.
 ```
-
-## Source
-
-Reproduced from [u/adamtrannews on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/14lh84l) with formatting-only changes.

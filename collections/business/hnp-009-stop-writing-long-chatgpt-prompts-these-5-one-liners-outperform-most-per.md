@@ -43,7 +43,3 @@ Generate ten hooks for [TOPIC], mixing curiosity, contrast, pain, and specificit
 ```text
 Reframe this thought [THOUGHT] from three useful perspectives, show what each reveals or hides, and give one safe action I can take now.
 ```
-
-## Source
-
-Distilled from [u/Dependent_Value_3564 on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1s5x583/stop_writing_long_chatgpt_prompts_these_5/). The prompts are transformed templates, not a verbatim copy.

@@ -61,7 +61,3 @@ Based on current trends in [my niche], suggest 15 content ideas I can create rig
 ```text
 Take this piece of content: [insert content] Turn it into 5 different formats (tweet, reel script, carousel, hook list, caption). Optimize each for engagement.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/copy-and-paste-these-prompts-and-see-what-happens/1437270525080069/) with formatting-only changes.

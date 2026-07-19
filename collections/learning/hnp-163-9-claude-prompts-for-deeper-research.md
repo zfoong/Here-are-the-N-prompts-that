@@ -67,7 +67,3 @@ Help me prepare for a conversation with [PERSON, COMPANY, OR PRODUCT]. Research 
 ```text
 I want to research [TOPIC] thoroughly, but I do not want one giant answer all at once. Create a step by step research workflow for me. Start by defining the research objective, the main questions to answer, and the assumptions that should be tested. Then break the work into stages such as background research, source gathering, comparison, analysis, synthesis, and final conclusions. For each stage, tell me what to ask, what to look for, what to document, and what would count as a useful output. End by giving me the exact first prompt I should use to begin stage one.
 ```
-
-## Source
-
-Reproduced from [Altiam Kabir on Facebook](https://www.facebook.com/altiamkabir/posts/need-better-research-with-claude-use-these-9-prompts-to-g%D0%B5t-deeper-cleaner-and-m/26600729819561345/) with formatting-only changes.

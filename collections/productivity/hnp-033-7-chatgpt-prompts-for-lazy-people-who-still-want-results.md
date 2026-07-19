@@ -78,7 +78,3 @@ Ask me three questions to review my day.
 Then tell me one small improvement for tomorrow.
 Keep it simple.
 ```
-
-## Source
-
-Reproduced from [u/tipseason on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1q41hbi/7_chatgpt_prompts_for_lazy_people_who_still_want/) with formatting-only changes.

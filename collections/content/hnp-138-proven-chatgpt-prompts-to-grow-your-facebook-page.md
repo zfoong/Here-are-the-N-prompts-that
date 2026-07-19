@@ -73,7 +73,3 @@ Create a 4-week Facebook content plan for [insert topic] with 3 posts per week. 
 ```text
 I have a 10-minute video about [insert topic]. Turn it into 8 Facebook pieces: 4 short clip ideas, 2 carousel ideas, 1 text post idea, and 1 engagement-focused question.
 ```
-
-## Source
-
-Reproduced from [Simply Digital on Facebook](https://www.facebook.com/simplydigital.gr/posts/proven-chatgpt-prompts-to-grow-your-facebook-page-ready-to-paste-and-use/1393205789486543/) with formatting-only changes.

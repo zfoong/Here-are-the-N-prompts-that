@@ -55,7 +55,3 @@ Act as a clarity and decision-making strategist for neurodiverse entrepreneurs. 
 ```text
 Act as an operations strategist who understands neurodiversity and executive function challenges. My background: I run a {business_type} and I currently handle {list_tasks}. I often feel drained by admin, communication, or repetitive tasks. Help me design a support ecosystem: tasks I can delegate, automate, or outsource first, tools that reduce friction, and suggestions for accountability or body-doubling support. Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-for-neurodiverse-entrepreneurs/25290491940556968/) with formatting-only changes.

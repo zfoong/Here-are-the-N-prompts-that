@@ -43,7 +43,3 @@ Give me a list of 20 niche-specific TikTok hashtags that balance high reach and 
 ```text
 Suggest 5 ways to boost comments, shares, and watch time on my TikTok videos in the [niche] industry.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/steal-these-5-chatgpt-prompts-for-tiktok-growth-copy-paste-go-viralno-guesswork-/10173863881465347/) with formatting-only changes.

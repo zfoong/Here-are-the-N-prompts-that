@@ -73,7 +73,3 @@ Identify the likely constraint in [SYSTEM] from [DATA], propose a way to confirm
 ```text
 Create a risk register for [BUSINESS] with likelihood, impact, leading indicator, mitigation, contingency, owner, and review cadence.
 ```
-
-## Source
-
-Distilled from [Sufyan Maan on LinkedIn](https://www.linkedin.com/posts/sufyanmaan_building-a-business-is-hard-but-with-chatgpt-activity-7336723743529951232-3jjR). The prompts are transformed templates, not a verbatim copy.

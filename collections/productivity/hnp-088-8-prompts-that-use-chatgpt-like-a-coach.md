@@ -61,7 +61,3 @@ Build a weighted decision matrix to compare [OPTION A] and [OPTION B]. Show scor
 ```text
 Write a roadmap for the next 7 days to progress on [GOAL]. Keep tasks under 30 minutes each.
 ```
-
-## Source
-
-Reproduced from [u/IAmAzharAhmed on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1obhen5) with formatting-only changes.

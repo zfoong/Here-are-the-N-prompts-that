@@ -73,7 +73,3 @@ You are a productivity coach. Create a weekly schedule for someone with a full-t
 ```text
 You are a marketing expert. Write a launch announcement for my side hustle that creates excitement and anticipation, encouraging people to check out my new product or service.
 ```
-
-## Source
-
-Reproduced from [i Social You on Facebook](https://www.facebook.com/isocialyou/posts/10-chatgpt-prompts-to-kickstart-your-side-hustle-business/1258922126274520/) with formatting-only changes.

@@ -163,7 +163,3 @@ Organize these scattered notes [Paste Notes] into a structured project brief.
 ```text
 Draft a polite but firm response to this client who is asking for work outside of scope [Paste Email].
 ```
-
-## Source
-
-Reproduced from [u/APM-Major-528 on Reddit](https://www.reddit.com/r/PromptEngineering/comments/1sa8nm1/i_got_tired_of_ai_hallucinations_so_i_built_a_25) with formatting-only changes.

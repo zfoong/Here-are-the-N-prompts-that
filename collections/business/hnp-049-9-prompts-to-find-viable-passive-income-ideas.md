@@ -122,7 +122,3 @@ Based on everything we’ve done, help me:
 For each phase, include: - 3–5 concrete actions - Weekly targets (e.g., # of outreach messages, calls, offers sent) - Simple metrics that show I’m moving closer to my goals.
 Finish by giving me the next 3 actions I should take THIS WEEK.
 ```
-
-## Source
-
-Reproduced from [u/Tharnwell on Reddit](https://www.reddit.com/r/passive_income/comments/1qxqdb0/no_passive_income_ideas_use_these_9_prompts_to) with formatting-only changes.

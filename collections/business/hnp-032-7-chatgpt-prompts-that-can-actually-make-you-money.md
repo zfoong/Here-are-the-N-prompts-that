@@ -55,7 +55,3 @@ Write 5 Facebook ad variations for [product] with different tones (curious, urge
 ```text
 Create a lesson plan for a beginner course on [skill]. Include module titles, key learning points, and assignments.
 ```
-
-## Source
-
-Reproduced from [u/YourBBC2022 on Reddit](https://www.reddit.com/r/ChatGPThadSaid/comments/1nabzp1/chatgpthadsaid_7_chatgpt_prompts_that_can/) with formatting-only changes.

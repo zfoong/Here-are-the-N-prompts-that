@@ -43,7 +43,3 @@ Can you explain the concept of [insert topic here] as if you were teaching it to
 ```text
 [Your question] Create one table, be more descriptive, and break the answer into different categories.
 ```
-
-## Source
-
-Reproduced from [Altiam on Facebook](https://www.facebook.com/altiam.artificialintelligence/posts/5-chatgpt-prompts-that-will-turn-you-into-a-superhuman-%EF%B8%8F%EF%B8%8F/122139392762620880/) with formatting-only changes.

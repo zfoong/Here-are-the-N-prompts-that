@@ -55,7 +55,3 @@ I have an interview for [role] at [company]. Give me the 8 most likely questions
 ```text
 Write a follow-up message for [job application/interview/networking call] with [name] at [company]. Restate my fit in one sentence, add one new piece of value they haven't heard, and prompt a clear next step without sounding desperate.
 ```
-
-## Source
-
-Reproduced from [u/WinterNo1606 on Reddit](https://www.reddit.com/r/GrowthHacking/comments/1rntp6m/i_dont_understand_why_people_arent_using_claude) with formatting-only changes.

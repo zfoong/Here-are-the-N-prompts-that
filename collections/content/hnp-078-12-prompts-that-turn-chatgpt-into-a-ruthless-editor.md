@@ -178,7 +178,3 @@ What you changed (and what you refused to change because it would be dishonest)
 Text:
 [PASTE TEXT]
 ```
-
-## Source
-
-Reproduced from [u/Beginning-Willow-801 on Reddit](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1q4nl23/turn_chatgpt_into_a_ruthless_editor_with_these_12) with formatting-only changes.

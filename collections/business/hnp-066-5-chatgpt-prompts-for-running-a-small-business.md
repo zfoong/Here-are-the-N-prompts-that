@@ -43,7 +43,3 @@ Write 5 Instagram captions for a [business type] promoting [product]. Conversati
 ```text
 Write a calm professional email response to a customer threatening a bad review unless we give them something free. Don't give in but try to resolve the issue.
 ```
-
-## Source
-
-Reproduced from [u/Ok-Term-1270 on Reddit](https://www.reddit.com/r/AIToolsAndTips/comments/1sdz6sl/here_are_5_chatgpt_prompts_i_use_to_run_my_small) with formatting-only changes.

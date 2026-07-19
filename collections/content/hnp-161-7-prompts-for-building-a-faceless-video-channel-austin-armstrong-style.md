@@ -55,7 +55,3 @@ Act as a faceless content monetization strategist who specializes in leveraging 
 ```text
 Act as a short-form analytics growth hacker like Austin Armstrong. Teach me how to study analytics (watch time, CTR, retention) and adjust my faceless content strategy weekly to double my growth speed. Give me a repeatable checklist. Ask me any questions you have.
 ```
-
-## Source
-
-Reproduced from [Jonathan Mast on Facebook](https://www.facebook.com/jonathanjmast/posts/7-prompts-for-building-a-faceless-video-channel-austin-armstrong-style/24861018356837664/) with formatting-only changes.

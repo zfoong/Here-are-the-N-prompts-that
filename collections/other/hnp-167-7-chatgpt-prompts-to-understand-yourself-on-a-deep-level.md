@@ -55,7 +55,3 @@ Be my purpose finder. Ask questions that help me connect what I'm naturally good
 ```text
 Help me write a letter to my future self. Ask what I hope to feel, learn, and let go of. Then summarize the emotional theme that shows what I deeply need right now.
 ```
-
-## Source
-
-Reproduced from [facebook.com/61576715823632 on Facebook](https://www.facebook.com/61576715823632/posts/7-chatgpt-prompts-to-understand-yourself-on-a-deep-levelsave-for-later-/122145423218890527/) with formatting-only changes.

@@ -31,7 +31,3 @@ Draft a three-sentence message to [RECRUITER] about [ROLE]: relevant connection,
 ```text
 Interview me for [ROLE] one behavioral question at a time. Probe vague answers, help structure them as situation/task/action/result, and finish with evidence-based feedback.
 ```
-
-## Source
-
-Distilled from [u/Prestigious_Data5189 on Reddit](https://www.reddit.com/r/cscareers/comments/1rooz5n/spent_3_hours_testing_ai_prompts_for_every/). The prompts are transformed templates, not a verbatim copy.

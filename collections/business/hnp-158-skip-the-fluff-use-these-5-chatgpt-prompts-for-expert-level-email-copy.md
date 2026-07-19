@@ -43,7 +43,3 @@ Write a follow-up email that checks in without sounding desperate. Make it frien
 ```text
 Write a personalized cold outreach email for a [type of lead/client] that references their business, problem, and offers a tailored solution.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/skip-the-fluff-use-these-5-chatgpt-prompts-for-expert-level-email-copy-save-this/10173795788145347/) with formatting-only changes.

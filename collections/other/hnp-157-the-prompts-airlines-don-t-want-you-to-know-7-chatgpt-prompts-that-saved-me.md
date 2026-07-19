@@ -55,7 +55,3 @@ Show me if flights from [neighboring country/city] to [destination] are cheaper 
 ```text
 Build me a packing list for a [length] trip to [destination] with weather considerations, so I avoid extra baggage fees.
 ```
-
-## Source
-
-Reproduced from [Adrian Brambila on Facebook](https://www.facebook.com/adrian.anthony.brambila/posts/the-prompts-airlines-dont-want-you-to-know-%EF%B8%8F7-chatgpt-prompts-that-saved-me-hund/10174015022470347/) with formatting-only changes.
