@@ -8,7 +8,7 @@ author: "Jonathan Mast"
 
 # 7 AI prompts for neurodiverse entrepreneurs
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-for-neurodiverse-entrepreneurs/25290491940556968/)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.facebook.com/jonathanjmast/posts/7-ai-prompts-for-neurodiverse-entrepreneurs/25290491940556968/)
 
 ## Prompts
 

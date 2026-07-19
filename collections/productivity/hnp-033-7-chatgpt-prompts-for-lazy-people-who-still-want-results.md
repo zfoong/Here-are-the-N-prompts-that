@@ -8,7 +8,7 @@ author: "u/tipseason"
 
 # 7 ChatGPT prompts for lazy people who still want results
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/PromptEngineering/comments/1q41hbi/7_chatgpt_prompts_for_lazy_people_who_still_want/)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/PromptEngineering/comments/1q41hbi/7_chatgpt_prompts_for_lazy_people_who_still_want/)
 
 ## Prompts
 

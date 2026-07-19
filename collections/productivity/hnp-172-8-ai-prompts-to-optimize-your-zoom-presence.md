@@ -8,7 +8,7 @@ author: "Jonathan Mast"
 
 # 8 AI prompts to optimize your Zoom presence
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.facebook.com/jonathanjmast/posts/8-ai-prompts-to-optimize-your-zoom-presence/26213384788267674/)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.facebook.com/jonathanjmast/posts/8-ai-prompts-to-optimize-your-zoom-presence/26213384788267674/)
 
 ## Prompts
 

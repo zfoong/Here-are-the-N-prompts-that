@@ -8,7 +8,7 @@ author: "u/Beginning-Willow-801"
 
 # 20 Top Rated ChatGPT Prompts that will 10X your Productivity (Backed by Science + Psychology)
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/promptingmagic/comments/1q8vjg5/20_top_rated_chatgpt_prompts_that_will_10x_your)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/promptingmagic/comments/1q8vjg5/20_top_rated_chatgpt_prompts_that_will_10x_your)
 
 ## Prompts
 

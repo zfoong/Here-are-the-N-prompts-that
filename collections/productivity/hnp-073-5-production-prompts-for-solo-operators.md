@@ -8,7 +8,7 @@ author: "u/CocoChanelVV"
 
 # 45 production prompts I use daily — here are 5 you can use right now
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/PromptEngineering/comments/1s48evx/45_production_prompts_i_use_daily_here_are_5_you)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/PromptEngineering/comments/1s48evx/45_production_prompts_i_use_daily_here_are_5_you)
 
 ## Prompts
 

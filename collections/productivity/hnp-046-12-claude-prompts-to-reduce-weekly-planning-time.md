@@ -8,7 +8,7 @@ author: "u/Beginning-Willow-801"
 
 # These 12 Claude prompts will reduce your weekly planning from 3 hours to 15 minutes like an AI powered Chief Operating Officer
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/ThinkingDeeplyAI/comments/1spzhje/these_12_claude_prompts_will_reduce_your_weekly)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/ThinkingDeeplyAI/comments/1spzhje/these_12_claude_prompts_will_reduce_your_weekly)
 
 ## Prompts
 

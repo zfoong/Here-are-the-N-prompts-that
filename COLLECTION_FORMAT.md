@@ -3,7 +3,7 @@
 One social post becomes one small Markdown file:
 
 ```text
-collections/<domain>/<id>-<descriptive-slug>.md
+collections/<category>/<id>-<descriptive-slug>.md
 ```
 
 The file contains only what someone needs to find and use the prompts. Prompt text must match the verified source; a rewritten approximation does not qualify.
@@ -20,7 +20,7 @@ The file contains only what someone needs to find and use the prompts. Prompt te
 ````markdown
 ---
 title: "Here are the 5 prompts that did something improbable"
-domain: business
+domain: solopreneur
 source_url: "https://www.threads.com/@example/post/example"
 platform: threads
 author: "@example"
@@ -28,7 +28,7 @@ author: "@example"
 
 # 💼 Here are the 5 prompts that did something improbable
 
-[← All prompt packs](../../CATALOG.md) · **Business** · [Original post ↗](https://www.threads.com/@example/post/example)
+[← All prompt packs](../../CATALOG.md) · **Solopreneur** · [Original post ↗](https://www.threads.com/@example/post/example)
 
 ## Prompts
 
@@ -45,7 +45,7 @@ That is the complete format: five short metadata fields, an original-post link n
 
 ## Add or edit a pack
 
-1. Copy a nearby file from the appropriate domain.
+1. Copy a nearby file from the appropriate category.
 2. Assign the next unused `hnp-NNN` filename and replace all five metadata values.
 3. Add each verified prompt verbatim as a numbered `###` heading followed by a `text` code block.
 4. Submit the new collection file; maintainers will refresh the indexes.

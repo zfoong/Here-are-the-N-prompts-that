@@ -8,7 +8,7 @@ author: "Austin Armstrong"
 
 # 5 ChatGPT Tasks automation prompts
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.facebook.com/Owwstin/posts/yesterday-chatgpt-announced-chatgpt-taskshere-are-5-really-cool-things-you-can-d/10160197961696256/)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.facebook.com/Owwstin/posts/yesterday-chatgpt-announced-chatgpt-taskshere-are-5-really-cool-things-you-can-d/10160197961696256/)
 
 ## Prompts
 

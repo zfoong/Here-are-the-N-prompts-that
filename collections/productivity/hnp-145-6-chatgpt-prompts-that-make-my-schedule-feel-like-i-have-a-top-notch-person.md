@@ -8,7 +8,7 @@ author: "Adrian Brambila"
 
 # 6 ChatGPT prompts that make my schedule feel like I have a top-notch personal assistant
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.facebook.com/adrian.anthony.brambila/posts/6-chatgpt-prompts-that-make-my-schedule-feel-like-i-have-a-top-notch-personal-as/10173689444170347/)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.facebook.com/adrian.anthony.brambila/posts/6-chatgpt-prompts-that-make-my-schedule-feel-like-i-have-a-top-notch-personal-as/10173689444170347/)
 
 ## Prompts
 

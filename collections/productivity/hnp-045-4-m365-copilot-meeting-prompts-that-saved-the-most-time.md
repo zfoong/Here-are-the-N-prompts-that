@@ -8,7 +8,7 @@ author: "u/Difficult-Sugar-4862"
 
 # With my colleagues we tested 18 M365 Copilot meeting prompts as a full prep/live/follow-up system for two weeks, here are the 4 that saved the most time (team leads, chiefs of staff)
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/microsoft_365_copilot/comments/1uv6fbb/with_my_colleagues_we_tested_18_m365_copilot)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/microsoft_365_copilot/comments/1uv6fbb/with_my_colleagues_we_tested_18_m365_copilot)
 
 ## Prompts
 

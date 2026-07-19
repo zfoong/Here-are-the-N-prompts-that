@@ -8,7 +8,7 @@ author: "u/EQ4C"
 
 # 7 Six Thinking Hats prompts for decision-making
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1q8o4wm/de_bonos_six_thinking_hats_to_7_ai_prompts_that/)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1q8o4wm/de_bonos_six_thinking_hats_to_7_ai_prompts_that/)
 
 ## Prompts
 

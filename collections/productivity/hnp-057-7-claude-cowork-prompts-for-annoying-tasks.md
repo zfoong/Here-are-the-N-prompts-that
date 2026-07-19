@@ -8,7 +8,7 @@ author: "u/Beginning-Willow-801"
 
 # 7 Claude Cowork prompts that automate your most annoying tasks
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/promptingmagic/comments/1s7gys7/7_claude_cowork_prompts_that_automate_your_most)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/promptingmagic/comments/1s7gys7/7_claude_cowork_prompts_that_automate_your_most)
 
 ## Prompts
 

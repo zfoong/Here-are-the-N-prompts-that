@@ -10,7 +10,7 @@ A normal entry must contain:
 2. an explicit promise of prompts or prompt templates; and
 3. a reveal construction such as “Here are 7 prompts,” “These 10 prompts,” or “I tested 20; here are the 3 that worked.”
 
-The public record stores only the source URL, credited author or handle, short title, primary domain, and verified prompt text.
+The public record stores only the source URL, credited author or handle, short title, primary category, and verified prompt text.
 
 Maintainers check that a candidate has the promised prompt payload before publishing it. A source link does not verify the author’s performance claims.
 

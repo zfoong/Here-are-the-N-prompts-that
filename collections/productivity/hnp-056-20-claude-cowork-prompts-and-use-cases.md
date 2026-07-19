@@ -8,7 +8,7 @@ author: "u/Beginning-Willow-801"
 
 # The Complete Claude Cowork Playbook - Cowork is your tireless AI assistant that gets 3 hour tasks done in 3 minutes. Here are 20 great Cowork prompts and use cases
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/promptingmagic/comments/1qytgh9/the_complete_claude_cowork_playbook_cowork_is)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/promptingmagic/comments/1qytgh9/the_complete_claude_cowork_playbook_cowork_is)
 
 ## Prompts
 

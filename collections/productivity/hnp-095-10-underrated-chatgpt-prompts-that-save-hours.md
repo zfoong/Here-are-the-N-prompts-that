@@ -8,7 +8,7 @@ author: "u/nightthustler"
 
 # 10 Underrated ChatGPT Prompts That Save Hours
 
-[← All prompt packs](../../CATALOG.md) · **Productivity & Life Admin** · [Original post ↗](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1o3sz5p)
+[← All prompt packs](../../CATALOG.md) · **Productivity** · [Original post ↗](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1o3sz5p)
 
 ## Prompts
 
