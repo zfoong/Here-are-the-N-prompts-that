@@ -414,3 +414,13 @@ X, Threads, Facebook, Instagram, Reddit, LinkedIn, TikTok, Bluesky, Mastodon, an
 Income, performance, and “replacement” statements belong to the source and are not endorsed by this project. Prompt text is preserved rather than silently rewritten, and publication still requires attribution and an appropriate basis. The repository’s MIT license covers its code; third-party content keeps its own rights.
 
 This project is unaffiliated with the platforms and model providers mentioned in collected posts.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=zfoong%2FHere-are-the-N-prompts-that&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zfoong/Here-are-the-N-prompts-that&type=date&theme=dark&legend=top-left&sealed_token=PmmLClZlxLQldq5Q7gP9byPPCJ3xNZpi8LaUWpWp7T-2aZf0iWI5Ju4MhEYwuRHBC-Yf3w7RXllRfWv5T7YQ6hYbsuZ6JN9IHDixQKyvFS9IV7xcTdj8cwejhNedqaTulGVAt17VNgMuIgBlmNmXvprZMJI99Ar4SkA3YK_CMAxDXxf0d7gUW3vlQiUj" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zfoong/Here-are-the-N-prompts-that&type=date&legend=top-left&sealed_token=PmmLClZlxLQldq5Q7gP9byPPCJ3xNZpi8LaUWpWp7T-2aZf0iWI5Ju4MhEYwuRHBC-Yf3w7RXllRfWv5T7YQ6hYbsuZ6JN9IHDixQKyvFS9IV7xcTdj8cwejhNedqaTulGVAt17VNgMuIgBlmNmXvprZMJI99Ar4SkA3YK_CMAxDXxf0d7gUW3vlQiUj" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zfoong/Here-are-the-N-prompts-that&type=date&legend=top-left&sealed_token=PmmLClZlxLQldq5Q7gP9byPPCJ3xNZpi8LaUWpWp7T-2aZf0iWI5Ju4MhEYwuRHBC-Yf3w7RXllRfWv5T7YQ6hYbsuZ6JN9IHDixQKyvFS9IV7xcTdj8cwejhNedqaTulGVAt17VNgMuIgBlmNmXvprZMJI99Ar4SkA3YK_CMAxDXxf0d7gUW3vlQiUj" />
+ </picture>
+</a>
