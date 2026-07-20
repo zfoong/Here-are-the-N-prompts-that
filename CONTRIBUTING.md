@@ -4,6 +4,9 @@ Found another suspiciously powerful numbered prompt pack? You can suggest the po
 
 By contributing, you agree to follow the [data policy](DATA_POLICY.md), especially the **verbatim or reject** rule. Do not recreate, improve, sanitize, or fill in missing prompts.
 
+> [!IMPORTANT]
+> All pull requests must target the **`submission` branch**, not `main`.
+
 ## What qualifies
 
 A submission should have all of the following:
@@ -30,13 +33,13 @@ Maintainers will verify the source, check for duplicates, and create the collect
 
 ## Option 2: Add a complete prompt pack
 
-1. Fork the repository and create a branch.
+1. Fork the repository and create a working branch.
 2. Check the [catalog](CATALOG.md) and search existing `source_url` values to avoid duplicates.
 3. Choose the most specific category from the list below.
 4. Copy a nearby collection file from that category.
 5. Name the new file `hnp-NNN-descriptive-slug.md`, using the next unused number. A maintainer may renumber it if another contribution claims the same ID.
 6. Add the metadata, source link, and every verified prompt.
-7. Open a pull request and include the original post URL and your publication basis.
+7. Open a pull request with **`submission` as the base branch**. Include the original post URL and your publication basis.
 
 Contributors do not need to edit `README.md` or `CATALOG.md`; maintainers regenerate those indexes from the collection files.
 
@@ -99,6 +102,7 @@ See [COLLECTION_FORMAT.md](COLLECTION_FORMAT.md) for the canonical format.
 
 ## Pull request checklist
 
+- [ ] The pull request targets the `submission` branch.
 - [ ] The post belongs to the numbered prompt-pack family.
 - [ ] The source is public and directly linked.
 - [ ] The author or account is credited.
@@ -111,4 +115,3 @@ See [COLLECTION_FORMAT.md](COLLECTION_FORMAT.md) for the canonical format.
 ## Corrections and removals
 
 For incorrect wording, attribution problems, duplicates, or removal requests, open an issue with the collection ID, source URL, requested action, and whether you are the author or rights holder.
-
