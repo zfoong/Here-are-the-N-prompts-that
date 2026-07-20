@@ -20,7 +20,7 @@
 
 # Here are the N prompts that...
 
-> I made $500/hour, found 3 jobs, marry 2 hubands and 3 wives using ChatGPT. You will not believe how easy it is.
+> I made $500/hour, found 3 jobs, married 2 husbands and 3 wives using ChatGPT. You will not believe how easy it is.
 >
 > Here are the 7 prompts that I used to make these happen 👇.
 
