@@ -1,0 +1,47 @@
+name: Correction or removal request
+description: Report incorrect wording, attribution problems, duplicates, or request removal
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: input
+    id: collection-id
+    attributes:
+      label: Collection ID
+      description: The hnp-NNN identifier from the collection filename.
+      placeholder: hnp-042
+    validations:
+      required: true
+  - type: input
+    id: source-url
+    attributes:
+      label: Source URL
+      placeholder: https://www.threads.com/@example/post/example
+    validations:
+      required: true
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: Requested action
+      options:
+        - Correct the prompt wording
+        - Correct the attribution or metadata
+        - Mark as duplicate
+        - Remove the entry
+    validations:
+      required: true
+  - type: dropdown
+    id: rights-holder
+    attributes:
+      label: Are you the author or rights holder?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Enough information to evaluate the request, per the data policy.
+    validations:
+      required: true

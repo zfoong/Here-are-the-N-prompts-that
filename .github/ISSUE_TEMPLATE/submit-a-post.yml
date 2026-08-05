@@ -1,0 +1,60 @@
+name: Submit a prompt-pack post
+description: Suggest a public "Here are the N prompts..." post for the collection
+title: "[Submission] "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for feeding the collection. Please read the [data policy](https://github.com/zfoong/Here-are-the-N-prompts-that/blob/main/DATA_POLICY.md) first — especially the **verbatim or reject** rule. Maintainers will verify the source, check for duplicates, and create the collection page if it qualifies.
+  - type: input
+    id: post-url
+    attributes:
+      label: Public post URL
+      description: A direct link to the public post. No private, deleted, or login-gated material.
+      placeholder: https://www.threads.com/@example/post/example
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author or account handle
+      placeholder: "@example"
+    validations:
+      required: true
+  - type: input
+    id: prompt-count
+    attributes:
+      label: Number of prompts promised
+      placeholder: "7"
+    validations:
+      required: true
+  - type: dropdown
+    id: prompts-location
+    attributes:
+      label: Where do the complete prompts appear?
+      options:
+        - In the post itself
+        - In the thread or replies
+        - In the comments
+        - In a carousel or images
+        - On an external public page
+    validations:
+      required: true
+  - type: dropdown
+    id: publication-basis
+    attributes:
+      label: Publication basis
+      description: Why may the prompt text be published here?
+      options:
+        - I am the author
+        - I have the author's permission
+        - Compatible licensing
+        - Public post — needs maintainer review
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else
+      description: Context, corrections, permission details, or anything that needs a second look.
